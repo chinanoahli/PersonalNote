@@ -1,0 +1,15 @@
+baseURL = "https://example.org/"
+languageCode = "zh-CN"
+title = "chinanoahli's note"
+theme = "hugo-book"
+disablePathToLower = true
+
+[params]
+  ignoreFiles = ["**/templates/**", "**/LICENSE"]
+  BookTheme = "dark"
+  BookCommitPath = "commit"
+  BookSearch = false
+  BookMenuBundle = "/menu"
+
+[markup.goldmark.renderer]
+unsafe = true
