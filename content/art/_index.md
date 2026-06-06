@@ -2,6 +2,7 @@
 title: "美术学习笔记"
 type: docs
 draft: false
+notHomePage: true
 ---
 
 # 美术学习笔记

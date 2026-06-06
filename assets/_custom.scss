@@ -1,0 +1,14 @@
+/* Fix v1: footer width was abnormal due to the QR code for sponsored links */
+
+.book-footer img {
+  max-width: 100%;
+  height: auto;
+}
+
+.book-footer table {
+  max-width: 100%;
+  width: 100%;
+  table-layout: fixed;
+}
+
+/* Fix v1 ends */

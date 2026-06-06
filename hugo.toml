@@ -1,15 +1,43 @@
-baseURL = "https://example.org/"
+baseURL = "https://chinanoahli.info/"
 languageCode = "zh-CN"
 title = "chinanoahli's note"
 theme = "hugo-book"
 disablePathToLower = true
+enableGitInfo = true
 
 [params]
+
   ignoreFiles = ["**/templates/**", "**/LICENSE"]
+  # Color theme: 'light', 'dark' or 'auto'
+  # Auto switches based on OS/browser preference
   BookTheme = "dark"
-  BookCommitPath = "commit"
+
+  # Show table of contents on right side of pages
+  # Can also be set per-page via frontmatter
+  BookToC = true
+  
+  # Path to favicon file relative to 'static' directory
+  BookFavicon = 'favicon.ico'
+
+  # Root section to render as sidebar menu
+  # Default: 'docs'
+  BookSection = '/'
+
+  # Repository URL, used for edit and commit links
+  BookRepo = 'https://github.com/chinanoahli/PersonalNote'
+
+  # Enable full-text search with fuse.js
   BookSearch = false
-  BookMenuBundle = "/menu"
 
 [markup.goldmark.renderer]
 unsafe = true
+
+[[menu.after]]
+  name = '本站 GitHub'
+  url = 'https://github.com/chinanoahli/PersonalNote'
+  weight = 10
+
+[[menu.after]]
+  name = '本站主题'
+  url = 'https://github.com/alex-shpak/hugo-book'
+  weight = 20
