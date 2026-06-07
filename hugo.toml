@@ -41,3 +41,8 @@ unsafe = true
   name = '本站主题'
   url = 'https://github.com/alex-shpak/hugo-book'
   weight = 20
+
+[[menu.after]]
+  name = '本站字体'
+  url = 'https://github.com/adobe-fonts/source-han-mono'
+  weight = 30
