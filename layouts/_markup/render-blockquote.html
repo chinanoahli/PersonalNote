@@ -1,0 +1,34 @@
+{{ $alertIcons := dict
+  "caution" "stop"
+  "important" "report"
+  "note" "info"
+  "tip" "light-bulb"
+  "warning" "alert"
+}}
+
+{{ $alertIcon := resources.Get (printf "OctIcons/icons/%s-16.svg" (index $alertIcons .AlertType)) }}
+
+{{- $attributes := .Attributes -}}
+{{- $class := printf "book-hint %s" ($.AlertType | lower) -}}
+{{- if isset $attributes "class" -}}
+  {{- $class = printf "%s %s" $class (index $attributes "class") -}}
+{{ end -}}
+{{- $attributes = merge $attributes (dict "class" $class) -}}
+
+{{ if eq .Type "alert" }}
+  <blockquote {{ range $key, $value := $attributes }}{{printf "%s='%s'" $key $value | safeHTMLAttr}}{{ end }}>
+    <div class="alert-heading alertType-{{.AlertType}}">
+      {{ $alertIcon.Content | safeHTML }}
+      {{ with .AlertTitle }}
+        {{ . }}
+      {{ else }}
+        {{ title .AlertType }}
+      {{ end }}
+    </div>
+    {{ .Text }}
+  </blockquote>
+{{ else }}
+  <blockquote {{ range $key, $value := $attributes }}{{printf "%s='%s'" $key $value | safeHTMLAttr}}{{ end }}>
+    {{ .Text }}
+  </blockquote>
+{{ end }}

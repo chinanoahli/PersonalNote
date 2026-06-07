@@ -7,3 +7,6 @@
 [submodule "content/hiddenNotes"]
 	path = content/hiddenNotes
 	url = ../HiddenNotes.git
+[submodule "assets/OctIcons"]
+	path = assets/OctIcons
+	url = ../OctIcons.git
