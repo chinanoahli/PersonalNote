@@ -32,7 +32,7 @@ summary: "Borderless Gaming 使用攻略"
 
 5. 在软件右边的`自动处理列表`中*右键*点击`osk [Process]`
 
-6. 在弹出的菜单中勾选`尺寸不变`<br><sup>这时的`osk [Process]`会变成`osk [Process] [NoSize]`</sup>
+6. 在弹出的菜单中勾选`尺寸不变`<br /><sup>这时的`osk [Process]`会变成`osk [Process] [NoSize]`</sup>
 
 7. 在软件右边的`自动处理列表`中*右键*点击`osk [Process] [NoSize]`
 
@@ -44,11 +44,11 @@ summary: "Borderless Gaming 使用攻略"
 
 11. 用鼠标框出你想要在哪里显示屏幕键盘(跟QQ截图一样操作)
 
-12. 双击`框里面的区域`确定所选区域<br><sup>双击`框外面的区域`取消操作<br>确定操作后`osk [Process]`会变成`osk [Process] [你框选的位置信息]`<br>例如: `osk [Process] [932x734-1607x956]`</sup>
+12. 双击`框里面的区域`确定所选区域<br /><sup>双击`框外面的区域`取消操作<br />确定操作后`osk [Process]`会变成`osk [Process] [你框选的位置信息]`<br />例如: `osk [Process] [932x734-1607x956]`</sup>
 
 13. 在软件右边的`自动处理列表`中*右键*点击`osk [Process] [你选择的区域信息]`
 
-14. 在弹出的菜单中勾选`保持窗口在顶部`，即可将屏幕键盘显示在所有窗口前方<br><sup>这时的`osk [Process] [你框选的位置信息]`会变成`osk [Process] [Top] [你框选的位置信息]`</sup>
+14. 在弹出的菜单中勾选`保持窗口在顶部`，即可将屏幕键盘显示在所有窗口前方<br /><sup>这时的`osk [Process] [你框选的位置信息]`会变成`osk [Process] [Top] [你框选的位置信息]`</sup>
 
 15. 在`工具`菜单中取消勾选`暂停自动处理`
 

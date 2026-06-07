@@ -22,21 +22,21 @@ summary: "Windows on Deck 使用笔记"
 
 安装顺序(请参考下列文件名)：
 
-1. APU驱动程序<br><sup>APU_XXX.zip<br>Aerith Windows Driver_XXX.zip</sup>
-2. Wi-Fi驱动程序<br><sup>RTLWlanE_XXX.zip</sup>
-4. 蓝牙驱动程序<br><sup>RTBlueR_XXX.zip</sup>
-5. SD读卡器驱动程序<br><sup>BayHub_SD_STOR_XXX.zip</sup>
+1. APU驱动程序<br /><sup>APU_XXX.zip<br />Aerith Windows Driver_XXX.zip</sup>
+2. Wi-Fi驱动程序<br /><sup>RTLWlanE_XXX.zip</sup>
+4. 蓝牙驱动程序<br /><sup>RTBlueR_XXX.zip</sup>
+5. SD读卡器驱动程序<br /><sup>BayHub_SD_STOR_XXX.zip</sup>
 6. 音频驱动程序
-   + 音频驱动程序1<br><sup>cs35l41_XXX.zip</sup>
-   + 音频驱动程序2<br><sup>NAU88L21_XXX.zip</sup>
+   + 音频驱动程序1<br /><sup>cs35l41_XXX.zip</sup>
+   + 音频驱动程序2<br /><sup>NAU88L21_XXX.zip</sup>
 
 ### Windows第三方驱动
 
 1. 手柄驱动部分(下列地址均为项目本体GitHub链接，可能需要翻墙)
-   + [ViGEmBus](https://github.com/ViGEm/ViGEmBus)<br><sup>专为各种手柄设计的Windows内核驱动</sup>
-   + [HidHide](https://github.com/ViGEm/HidHide)<br><sup>对游戏隐藏指定的某个手柄插件</sup>
-   + [DS4Windows](https://github.com/Ryochan7/DS4Windows)<br><sup>可以将任意型号的手柄伪装为**PlayStation手柄**或者**Xbox手柄**<br>必须搭配ViGEmBus使用，建议同时用HidHide隐藏自带的手柄</sup>
-   + [**S**teamdeck **WI**ndows **C**ontroller **D**river (SWICD)](https://github.com/mKenfenheuer/steam-deck-windows-usermode-driver)<br><sup>第三方手柄驱动<br>\*. 暂时未知是否必须</sup>
+   + [ViGEmBus](https://github.com/ViGEm/ViGEmBus)<br /><sup>专为各种手柄设计的Windows内核驱动</sup>
+   + [HidHide](https://github.com/ViGEm/HidHide)<br /><sup>对游戏隐藏指定的某个手柄插件</sup>
+   + [DS4Windows](https://github.com/Ryochan7/DS4Windows)<br /><sup>可以将任意型号的手柄伪装为**PlayStation手柄**或者**Xbox手柄**<br />必须搭配ViGEmBus使用，建议同时用HidHide隐藏自带的手柄</sup>
+   + [**S**teamdeck **WI**ndows **C**ontroller **D**river (SWICD)](https://github.com/mKenfenheuer/steam-deck-windows-usermode-driver)<br /><sup>第三方手柄驱动<br />\*. 暂时未知是否必须</sup>
 
 ### Windows系统游戏体验提升小工具合集
 

@@ -35,7 +35,7 @@ draft: false
     <tr>
     <td align="center"><p>微信赞赏码</p></td>
     <td align="center"><p>支付宝转账</p></td>
-    <td align="center"><p>外国朋友专用<br><sub>点击图片跳转</sub></p></td>
+    <td align="center"><p>外国朋友专用<br /><sub>点击图片跳转</sub></p></td>
     </tr>
     <tr>
         <td align="center" width="33%">

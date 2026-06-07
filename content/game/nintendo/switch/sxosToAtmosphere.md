@@ -248,7 +248,7 @@ summary: "Nintendo Switch SXOS 转 Atmosphère"
     4. Awoo Installer 游戏安装工具：[点此下载](https://github.com/Huntereb/Awoo-Installer/releases)
     5. TinFoil 游戏安装工具：[点此下载](https://tinfoil.io/Download) (下载NSP版本，用TinWoo或Awoo安装即可)
 
-17. \[非必要\]用Lockpick_RCM导出 `prod.keys` </br>(此工具已被任天堂举报，现已更名为 `Picklock_RCM` )
+17. \[非必要\]用Lockpick_RCM导出 `prod.keys` <br />(此工具已被任天堂举报，现已更名为 `Picklock_RCM` )
 
    > [下载地址](https://github.com/s1204IT/Lockpick_RCM)
    >
