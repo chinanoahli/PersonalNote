@@ -3,6 +3,8 @@ title: "美术学习笔记"
 type: docs
 draft: false
 notHomePage: true
+description: "Content for art learning"
+summary: "美术学习笔记目录"
 ---
 
 # 美术学习笔记
@@ -34,9 +36,3 @@ notHomePage: true
    > 接下来三个视频为一些具体例子 <sub>(其中提到笔记的篇幅不是特别大，但仍有参考价值)</sub>
    >
    > <sub>\*. [为何油管视频会未找到](https://www.bilibili.com/read/cv22619955)</sub>
-
-+ [去看笔记](./myNote)
-
----
-
-[笔记首页](/)
