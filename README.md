@@ -1,10 +1,10 @@
 # 笔记总目录
 
-+ [美术学习笔记](./art/README.md)
-+ [音乐学习笔记](./music/README.md)
-+ [游戏笔记](./game/README.md)
-+ [软件使用笔记](./softUsage/README.md)
-+ [硬件使用笔记](./hardwareUsage/README.md)
++ [美术学习笔记](./content/art/_index.md)
++ [音乐学习笔记](./music/_index.md)
++ [游戏笔记](./game/_index.md)
++ [软件使用笔记](./softUsage/_index.md)
++ [硬件使用笔记](./hardwareUsage/_index.md)
 + 编程语言学习
 + 外语学习
 + 网页剪藏

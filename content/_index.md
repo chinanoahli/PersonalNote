@@ -22,7 +22,7 @@ draft: false
 
 [chinanoahli @ GitHub](https://github.com/chinanoahli)
 
-对笔记内容有任何问题或建议，请到本项目的 [Discussions页面](https://github.com/chinanoahli/personal_note/discussions) 提出
+对笔记内容有任何问题或建议，请到本项目的 [Discussions页面](https://github.com/chinanoahli/PersonalNote/discussions) 提出
 
 ---
 

@@ -1,10 +1,10 @@
 ---
-title: "Krenz学习笔记"
+title: "Krenz 学习笔记"
 type: docs
 draft: false
 notHomePage: true
 description: "Content for learning from Krenz"
-summary: "Krenz大在线课程笔记目录"
+summary: "Krenz 大在线课程笔记目录"
 ---
 
 # P大绘画教室
