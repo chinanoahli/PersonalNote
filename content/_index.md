@@ -10,7 +10,7 @@ draft: false
 + [音乐学习笔记](./music)
 + [游戏笔记](./game)
 + [软件使用笔记](./softUsage)
-+ 硬件使用笔记
++ [硬件使用笔记](./hardwareUsage)
 + 编程语言学习
 + 外语学习
 + 网页剪藏
