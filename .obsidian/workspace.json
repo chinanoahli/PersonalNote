@@ -1,0 +1,231 @@
+{
+  "main": {
+    "id": "1c962d67f4f67cc0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6d78d2766b8d49b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "572c566a3aebfb38",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c97bdf389ef3d7c6",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d8197212e5f1bb7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "636fd9698dcbf37a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "5cfeba81c8e16498",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "f4b0954e1934ce8e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "f504129c300206a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "82e3017fbb03d931",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b04ac5c83559c277",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "content/art/blender/_index.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "_index 的反向链接列表"
+            }
+          },
+          {
+            "id": "8f31a8909da61767",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "content/art/blender/_index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "_index 的出链列表"
+            }
+          },
+          {
+            "id": "ad2b6dc6080fc64f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "570d7f18070d0d96",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "664955e5fbba71a9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "content/art/blender/_index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "_index 的大纲"
+            }
+          },
+          {
+            "id": "28cb843eafdc881d",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {},
+              "icon": "lucide-file-signature",
+              "title": "脚注"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "better-footnote:打开 Better Footnote": false
+    }
+  },
+  "active": "572c566a3aebfb38",
+  "lastOpenFiles": [
+    "content/_index.md",
+    "content/art/proko/anatomy/KeyConceptsIndex.md",
+    "public/book.min.bc8506e30188738c90e1f0ca53a2aa2b1c77a6a62773700e83f8d72805d5ae98.css",
+    "README.md",
+    "content/music/musicTheory.md",
+    "content/art/chuns/humanBodyStructure/lesson1.md",
+    "content/art/chuns/_index.md",
+    "content/music/_index.md",
+    "content/art/blender/01.downloadAndBaseSettings.md",
+    "content/art/blender/_index.md",
+    "content/softUsage/_index.md",
+    "content/softUsage/operatingSystem/macOStweaks.md",
+    "public/music/_indek/index.html",
+    "public/music/_indek",
+    "content/music/_indek.md",
+    "content/music/README.md",
+    "public/music/musicTheory/index.html",
+    "public/music/musicTheory",
+    "public/music/index.xml",
+    "public/music/README/index.html",
+    "public/music/index.html",
+    "public/music/README",
+    "public/music",
+    "content/softUsage/operatingSystem/windowsTweaks.md",
+    "content/art/ants/_index.md",
+    "content/softUsage/operatingSystem/linuxTweaks.md",
+    "themes/hugo-book/exampleSite/content.en/_index.md",
+    "content/softUsage/devSoft/gitUsage.md",
+    "content/softUsage/devSoft/gnupg.md",
+    "content/softUsage/otherSoft/multimediaSoftware.md",
+    "content/softUsage/otherSoft/androidEmulator.md",
+    "content/softUsage/operatingSystem/windowsComponentsAndServices.md",
+    "content/art/chuns/humanBodyStructure/lesson3.md",
+    "content/art/chuns/humanBodyStructure/lesson2.md",
+    "content/softUsage/operatingSystem/windows/wimBoot.md",
+    "content/softUsage/operatingSystem/windows/dismCommands.md"
+  ]
+}

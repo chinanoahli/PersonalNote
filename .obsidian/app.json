@@ -1,0 +1,17 @@
+{
+  "vimMode": true,
+  "livePreview": false,
+  "strictLineBreaks": true,
+  "showLineNumber": true,
+  "spellcheck": false,
+  "useTab": false,
+  "userIgnoreFilters": [
+    "archetypes/",
+    "assets/",
+    "layouts/",
+    "public/",
+    "resources/",
+    "static/",
+    "themes/"
+  ]
+}
