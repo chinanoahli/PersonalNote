@@ -3905,14 +3905,14 @@ body {
 
 /* Font ends */
 
+/* Alert Style */
+
 .alert-heading {
   font-weight: bold;
   display: flex;
   align-items: center;
   font-size: 1rem;
 }
-
-/* Alert Style */
 
 .alert-heading > svg {
   fill: currentColor;
@@ -3942,3 +3942,11 @@ body {
 }
 
 /* Alert Style ends */
+
+/* Over container max-width */
+
+.container {
+  max-width: 95%;
+}
+
+/* Over container max-width end */
