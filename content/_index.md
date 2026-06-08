@@ -39,14 +39,14 @@ draft: false
     </tr>
     <tr>
         <td align="center" width="33%">
-           <img src="https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/donationImg/wechat.png" alt="微信赞赏码"/>
+           <img src="https://attachments.chinanoahli.info/wechatDonationImg.png" alt="微信赞赏码"/>
         </td>
         <td align="center" width="33%">
-           <img src="https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/donationImg/alipay.png" alt="支付宝转账"/>
+           <img src="https://attachments.chinanoahli.info/alipayDonationImg.png" alt="支付宝转账"/>
         </td>
         <td align="center" width="33%">
            <a href="https://paypal.me/chinanoahli">
-              <img src="https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/donationImg/paypal.png" alt="Paypal"/>
+              <img src="https://attachments.chinanoahli.info/paypalDonationImg.png" alt="Paypal"/>
            </a>
         </td>
     </tr>
