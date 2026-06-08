@@ -11,10 +11,14 @@
             "id": "572c566a3aebfb38",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "content/_index.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "_index"
             }
           }
         ]
@@ -181,7 +185,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
@@ -191,6 +194,7 @@
   },
   "active": "572c566a3aebfb38",
   "lastOpenFiles": [
+    "content/hiddenNotes/_index.md",
     "content/_index.md",
     "content/art/proko/anatomy/KeyConceptsIndex.md",
     "public/book.min.bc8506e30188738c90e1f0ca53a2aa2b1c77a6a62773700e83f8d72805d5ae98.css",
@@ -225,7 +229,6 @@
     "content/softUsage/operatingSystem/windowsComponentsAndServices.md",
     "content/art/chuns/humanBodyStructure/lesson3.md",
     "content/art/chuns/humanBodyStructure/lesson2.md",
-    "content/softUsage/operatingSystem/windows/wimBoot.md",
-    "content/softUsage/operatingSystem/windows/dismCommands.md"
+    "content/softUsage/operatingSystem/windows/wimBoot.md"
   ]
 }
