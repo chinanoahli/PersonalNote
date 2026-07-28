@@ -107,10 +107,10 @@ summary: "出彩的比例与趋势 - 素体·体态 - 蚂蚁八手王"
 <table align="center">
     <tr>
         <td align="center" width="50%">
-           <img src="https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/ants/humanBodyDesign/attachments/L1-01.png" alt="L1-01"/>
+           <img src="https://attachments.chinanoahli.info/art/ants/characterBodyDesign/L1-01.png" alt="L1-01"/>
         </td>
         <td align="center" width="50%">
-           <img src="https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/ants/humanBodyDesign/attachments/L1-02.png" alt="L1-02"/>
+           <img src="https://attachments.chinanoahli.info/art/ants/characterBodyDesign/L1-02.png" alt="L1-02"/>
         </td>
     </tr>
 </table>
@@ -127,7 +127,7 @@ summary: "出彩的比例与趋势 - 素体·体态 - 蚂蚁八手王"
 
 通过分析一些「艺术参考用木偶」，我们可以得到一个简化的人体骨架
 
-![L1-03](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/ants/humanBodyDesign/attachments/L1-03.png)
+![L1-03](https://attachments.chinanoahli.info/art/ants/characterBodyDesign/L1-03.png)
 
 从参考木偶的设计上，我们可以看到一些与真实人体骨架不同的地方：
 
@@ -149,7 +149,7 @@ summary: "出彩的比例与趋势 - 素体·体态 - 蚂蚁八手王"
 >
 > 这里给出的比例并非通用于所有角色的固定标准，它只是一个比较常见的参考比例，请勿在不同角色上生搬硬套
 
-![L1-04](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/ants/humanBodyDesign/attachments/L1-04.png)
+![L1-04](https://attachments.chinanoahli.info/art/ants/characterBodyDesign/L1-04.png)
 
 在定骨盆的位置时，为了让腿部先得更修长，应尽量把骨盆放在整个角色高度中线以上
 
@@ -161,11 +161,11 @@ summary: "出彩的比例与趋势 - 素体·体态 - 蚂蚁八手王"
 >
 > 为了规避这种情况，如果选择以一般的几何体(如长方体)代替胸腔的时候，一定要把肩关节球的位置往几何体的内部扣进去
 >
-> ![L1-05](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/ants/humanBodyDesign/attachments/L1-05.png)
+> ![L1-05](https://attachments.chinanoahli.info/art/ants/characterBodyDesign/L1-05.png)
 
 ### 3.3 设计向骨架手臂的细节
 
-![L1-06](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/ants/humanBodyDesign/attachments/L1-06.png)
+![L1-06](https://attachments.chinanoahli.info/art/ants/characterBodyDesign/L1-06.png)
 
 如果认真观察设计向骨架的手臂，我们可以看到，上臂的外沿是稍微往内凹陷的
 
@@ -194,10 +194,10 @@ summary: "出彩的比例与趋势 - 素体·体态 - 蚂蚁八手王"
 <table align="center">
     <tr>
         <td align="center" width="50%">
-           <img src="https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/ants/humanBodyDesign/attachments/L1-07.png" alt="L1-07"/>
+           <img src="https://attachments.chinanoahli.info/art/ants/characterBodyDesign/L1-07.png" alt="L1-07"/>
         </td>
         <td align="center" width="50%">
-           <img src="https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/ants/humanBodyDesign/attachments/L1-08.png" alt="L1-08"/>
+           <img src="https://attachments.chinanoahli.info/art/ants/characterBodyDesign/L1-08.png" alt="L1-08"/>
         </td>
     </tr>
 </table>
@@ -210,23 +210,23 @@ summary: "出彩的比例与趋势 - 素体·体态 - 蚂蚁八手王"
 
 ### 3.5 骨盆
 
-![L1-09](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/ants/humanBodyDesign/attachments/L1-09.png)
+![L1-09](https://attachments.chinanoahli.info/art/ants/characterBodyDesign/L1-09.png)
 
 骨盆需要注意的点并不多，但是腰时刻记住，脊椎与骨盆的连接点在 **靠背部** 的一侧
 
 ### 3.6 脊椎三段线
 
-![L1-10](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/ants/humanBodyDesign/attachments/L1-10.png)
+![L1-10](https://attachments.chinanoahli.info/art/ants/characterBodyDesign/L1-10.png)
 
 当把脊椎的弯曲作适当简化之后，可以得到一条三段线
 
 <table align="center">
     <tr>
         <td align="center" width="50%">
-           <img src="https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/ants/humanBodyDesign/attachments/L1-11.png" alt="L1-11"/>
+           <img src="https://attachments.chinanoahli.info/art/ants/characterBodyDesign/L1-11.png" alt="L1-11"/>
         </td>
         <td align="center" width="50%">
-           <img src="https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/ants/humanBodyDesign/attachments/L1-12.png" alt="L1-12"/>
+           <img src="https://attachments.chinanoahli.info/art/ants/characterBodyDesign/L1-12.png" alt="L1-12"/>
         </td>
     </tr>
 </table>
@@ -235,7 +235,7 @@ summary: "出彩的比例与趋势 - 素体·体态 - 蚂蚁八手王"
 
 胸腔往下，则是骨盆
 
-![L1-13](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/ants/humanBodyDesign/attachments/L1-13.png)
+![L1-13](https://attachments.chinanoahli.info/art/ants/characterBodyDesign/L1-13.png)
 
 与骨盆连接处会有一段曲线的方向相对更 「**直立**」，然后才会往外走
 
@@ -251,7 +251,7 @@ summary: "出彩的比例与趋势 - 素体·体态 - 蚂蚁八手王"
 
 如果可以熟练运用三段线，就可以快速画出具有不同特征或风格的角色的胸腔：
 
-![L1-14](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/ants/humanBodyDesign/attachments/L1-14.png)
+![L1-14](https://attachments.chinanoahli.info/art/ants/characterBodyDesign/L1-14.png)
 
 通过控制 *红色段* 可以快速定义角色是否强壮，因为红色段代表了斜方肌，只有在画十分强壮的角色时才会去强调
 
@@ -263,11 +263,11 @@ summary: "出彩的比例与趋势 - 素体·体态 - 蚂蚁八手王"
 
 #### 3.8.1 大腿
 
-![L1-15](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/ants/humanBodyDesign/attachments/L1-15.png)
+![L1-15](https://attachments.chinanoahli.info/art/ants/characterBodyDesign/L1-15.png)
 
 从后侧方观察真实的人体骨骼，我们可以发现大腿骨其实是带有一定弧度的
 
-![L1-16](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/ants/humanBodyDesign/attachments/L1-16.png)
+![L1-16](https://attachments.chinanoahli.info/art/ants/characterBodyDesign/L1-16.png)
 
 如果把大腿画得过直，就很容易在有透视 (任何非正视、平视) 角度的情况下把角色画得很 「*平*」，角色也更不容易 「**站稳**」，空间感会难以体现
 
@@ -283,11 +283,11 @@ summary: "出彩的比例与趋势 - 素体·体态 - 蚂蚁八手王"
 
 同时还可以避免长期对腿部弧度的忽视，导致无法画出想要的效果
 
-![L1-17](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/ants/humanBodyDesign/attachments/L1-17.png)
+![L1-17](https://attachments.chinanoahli.info/art/ants/characterBodyDesign/L1-17.png)
 
 那么为何我们在画正面的设计向骨架的时候仍然需要把大腿画成弯曲的呢，明明从真实的人体骨架上来看，正面的大腿骨几乎接近直线？
 
-![L1-18](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/ants/humanBodyDesign/attachments/L1-18.png)
+![L1-18](https://attachments.chinanoahli.info/art/ants/characterBodyDesign/L1-18.png)
 
 当我们观察带有肌肉的人体模型时，我们可以观察到，尽管时从正面看，大腿骨接近笔直，但大腿的肌肉轮廓仍然存在着一定的弧度，靠近骨盆的位置会更粗一些
 

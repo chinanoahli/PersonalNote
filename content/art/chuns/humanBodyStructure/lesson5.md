@@ -28,7 +28,7 @@ summary: "手臂结构拆解 • 人体结构课 • 肖玮春"
 
 而手腕大约在胯部方块空间的底部<sub>（裆部底部）</sub>差不多的位置
 
-![手臂与躯干的比例](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l5-01.png)
+![手臂与躯干的比例](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l5-01.png)
 
 而手臂的粗细则可以以肩关节球作为参照：
 
@@ -36,11 +36,11 @@ summary: "手臂结构拆解 • 人体结构课 • 肖玮春"
 
 简而言之，从手臂往下走，每个关节大约递减**1/4**
 
-![手臂关节球的大小对比](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l5-02.png)
+![手臂关节球的大小对比](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l5-02.png)
 
 而小孩的关节球递减程度，较于成年人的则相对小一些，在画小孩的时候可以适当进行调整
 
-![小孩的关节球大小对象](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l5-03.png)
+![小孩的关节球大小对象](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l5-03.png)
 
 > [!WARNING]
 >
@@ -62,13 +62,13 @@ summary: "手臂结构拆解 • 人体结构课 • 肖玮春"
 
 承接第三课，我们可以知道，锁骨转折的部分正好位于肩关节球的1/2处
 
-![锁骨和肩关节球的相对位置](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l5-04.png)
+![锁骨和肩关节球的相对位置](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l5-04.png)
 
 而锁骨“夹子”转到背后时，“夹子”的线条对应的是*肩胛骨轮廓的边缘线*，~~而不是真正肩胛骨上斜着长出来的“骨棒子”~~
 
 这是因为肩胛骨上的两根“骨棒子”本身的角度是斜向上方的，它的生长角度容易造成我们对于透视方向的误判
 
-![“夹子”的背面](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l5-05.png)
+![“夹子”的背面](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l5-05.png)
 
 当手抬起的时候<sub>（比平举的程度更大时）</sub>，锁骨也会跟着抬起
 
@@ -76,37 +76,37 @@ summary: "手臂结构拆解 • 人体结构课 • 肖玮春"
 
 要把抬起手的人体画得更合理，就必须把锁骨“夹子”理解透彻
 
-![锁骨的运动](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l5-06.png)
+![锁骨的运动](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l5-06.png)
 
 可以观察以下GIF，看手臂抬起来时，锁骨和肩胛骨是如何运动的
 
-![抬起手臂时锁骨的运动](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l5-07.gif)
+![抬起手臂时锁骨的运动](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l5-07.gif)
 
 抬起手臂时，要注意肩胛骨的角度，肩胛骨会被带动而外翻，但其形状不会改变<sub>（下图里蓝色的角）</sub>
 
-![锁骨外翻](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l5-08.gif)
+![锁骨外翻](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l5-08.gif)
 
 锁骨除了可以抬起，稍微进行转向，例如手臂往前举，或收到背后时的动作
 
 在处理胸腔肌肉之前，可以给锁骨加上对应的体积，最后再加上肌肉，就可以让画面看起来更扎实
 
-![锁骨的体积](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l5-09.png)
+![锁骨的体积](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l5-09.png)
 
 而肩胛骨上斜着长的“骨棒子”，则是斜方肌的生长点
 
-![斜方肌与肩胛骨](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l5-10.png)
+![斜方肌与肩胛骨](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l5-10.png)
 
 为了画好手臂抬高时胸腔的肌肉，我们首先要找准胸腔的1/2截面线，这条线对应的是胸腔方块空间的1/2线
 
-![找到胸腔的1/2处](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l5-11.png)
+![找到胸腔的1/2处](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l5-11.png)
 
 以这条线作为参照，才能更好地找出胸大肌和背阔肌的位置
 
-![补全肌肉](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l5-12.png)
+![补全肌肉](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l5-12.png)
 
 要注意，需要表现腋下的时候，就必须需要找准在胸大肌与背阔肌跟上臂骨的连接点，因为腋窝区域正是由这两块肌肉之间的空隙所组成的
 
-![腋窝](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l5-13.png)
+![腋窝](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l5-13.png)
 
 在找“夹子”的状态时，可以通过多种推理方式，来尝试分析
 
@@ -114,15 +114,15 @@ summary: "手臂结构拆解 • 人体结构课 • 肖玮春"
 
 + 先找胸腔，然后推测关节球的位置
 
-![推测关节球](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l5-14.png)
+![推测关节球](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l5-14.png)
 
 + 根据体表的突点
 
-![体表突点](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l5-15.png)
+![体表突点](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l5-15.png)
 
 > 手臂举起不同的角度时，胸大肌<sub>（绿色的肌肉）</sub>以及背阔肌<sub>（黄色的肌肉）</sub>的形变，以及肩胛骨的运动角度
 >
-> ![不同动作的参考图](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l5-16.png)
+> ![不同动作的参考图](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l5-16.png)
 
 ## 上臂
 
@@ -132,39 +132,39 @@ summary: "手臂结构拆解 • 人体结构课 • 肖玮春"
 
 在手臂处于不同的角度时，肘关节的朝向其实并不一样
 
-![肘关节的旋转](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l5-17.png)
+![肘关节的旋转](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l5-17.png)
 
 我们可以将肘关节简化成一个比较细的圆柱，在圆柱里面的两侧，分别会有两个三角形
 
-![肘关节的概念简化](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l5-18.png)
+![肘关节的概念简化](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l5-18.png)
 
 圆柱的倾斜角度即为手臂的扭动方向，两个三角形分别代表了上臂与前臂的不同朝向，因此，准确理解这两个三角形的透视关系是很重要的
 
-![肘关节的透视变化](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l5-19.png)
+![肘关节的透视变化](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l5-19.png)
 
 ### 在真人照片中找到肘关节
 
 先找出照片中手臂对应的圆柱体
 
-![找出手臂对应的圆柱](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l5-20.png)
+![找出手臂对应的圆柱](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l5-20.png)
 
 然后找到*三角肌中束的尖端点*
 
-![三角肌尖端点](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l5-21.png)
+![三角肌尖端点](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l5-21.png)
 
 接着根据手臂圆柱的朝向，从三角肌中束的尖端点作延长线，就可以找到细圆柱其中一边的截面
 
-![找到细圆柱的截面](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l5-22.png)
+![找到细圆柱的截面](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l5-22.png)
 
 接着在手臂圆柱的根部，接上一个方块，并根据方块的透视补全细圆柱的其他部分
 
-![补全方块剩余的部分](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l5-23.png)
+![补全方块剩余的部分](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l5-23.png)
 
 > [!WARNING]
 >
 > 这个方块应该永远贴在上臂的圆柱上，而不会发生翻折的状态
 >
-> ![手臂根部的辅助方块](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l5-24.png)
+> ![手臂根部的辅助方块](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l5-24.png)
 
 > [!TIP] 如何找到细圆柱的参照方块？
 >
@@ -174,7 +174,7 @@ summary: "手臂结构拆解 • 人体结构课 • 肖玮春"
 >
 > 所以我们就可以据此利用延长出来的这一截圆柱，反推出方块的大小和透视状态
 >
-> ![找出细圆柱的参考方块](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l5-25.png)
+> ![找出细圆柱的参考方块](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l5-25.png)
 
 ## 小臂
 
@@ -186,7 +186,7 @@ summary: "手臂结构拆解 • 人体结构课 • 肖玮春"
 
 而尺骨则比较少发生反转，它的角度与手肘的细圆柱的角度相对固定
 
-![尺骨和桡骨的相对运动](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l5-26.png)
+![尺骨和桡骨的相对运动](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l5-26.png)
 
 手臂在不同的旋转状态下，两根骨头的空间位置经常发生交叉
 
@@ -196,7 +196,7 @@ summary: "手臂结构拆解 • 人体结构课 • 肖玮春"
 
 桡骨：它会始终连接到手掌靠 ***大拇指*** 的一端
 
-  ![尺骨和桡骨的位置](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l5-27.png)
+  ![尺骨和桡骨的位置](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l5-27.png)
 
 根据上面的特征分析这张图片，我们就可以清晰地找出：
 
@@ -208,7 +208,7 @@ summary: "手臂结构拆解 • 人体结构课 • 肖玮春"
 
 在已经找好手肘细圆柱的情况下，我们可以先找到手腕处尺骨的突点，然后再画出三角型区域即可
 
-![尺骨的位置](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l5-28.png)
+![尺骨的位置](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l5-28.png)
 
 > [!WARNING]
 >
@@ -218,15 +218,15 @@ summary: "手臂结构拆解 • 人体结构课 • 肖玮春"
 >
 > 尺骨靠近手肘一端是比较大的，而靠近手腕一端则相对较小，桡骨则正好相反
 >
-> ![尺骨和桡骨的形状](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l5-29.png)
+> ![尺骨和桡骨的形状](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l5-29.png)
 
 > [!TIP] 参考：尺骨线
 >
-> ![尺骨线参考图](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l5-30.png)
+> ![尺骨线参考图](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l5-30.png)
 
 ## 手臂的肌肉
 
-![手臂肌肉总览](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l5-31.png)
+![手臂肌肉总览](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l5-31.png)
 
 ### 三角肌
 
@@ -240,11 +240,11 @@ summary: "手臂结构拆解 • 人体结构课 • 肖玮春"
 
 <sub>（下面的演示图，上臂都画得比较短）</sub>
 
-![找到关键点](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l5-32.png)
+![找到关键点](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l5-32.png)
 
 然后连接锁骨“夹子”的两端以及手臂1/2处的尖端点，即可画出三角肌的中束
 
-![画出中束](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l5-33.png)
+![画出中束](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l5-33.png)
 
 接着，找到锁骨正面靠外1/3的点，这就是前三角的起始点
 
@@ -254,7 +254,7 @@ summary: "手臂结构拆解 • 人体结构课 • 肖玮春"
 
 画得时候要注意不同的观察角度造成的遮挡关系，被遮住的肌肉可以直接忽略
 
-![前三角和后三角](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l5-34.png)
+![前三角和后三角](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l5-34.png)
 
 > [!TIP] 参考：三角肌锥形末端的位置
 >
@@ -268,45 +268,45 @@ summary: "手臂结构拆解 • 人体结构课 • 肖玮春"
 >
 > 同时又因为三角肌的尖端在上臂长度的1/2处，结合上面两项信息，就可以推理得到三角肌的尖端在哪里
 >
-> ![三角肌锥形末端参考图](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l5-35.png)
+> ![三角肌锥形末端参考图](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l5-35.png)
 
 ### 肱肌、肱二头肌、肱三头肌
 
 肱肌在肌肉健全的情况下，只能看到呈线状，但实际上它是一块比较大的肌肉<sub>（图中红色的部分）</sub>
 
-![肱肌](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l5-36.png)
+![肱肌](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l5-36.png)
 
 看起来呈线状是因为通常它会被在上方的肱二头肌<sub>（图中蓝色的部分）</sub>所覆盖住，但从侧面看，仍然会露出一些肱肌
 
-![肱二头肌](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l5-37.png)
+![肱二头肌](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l5-37.png)
 
 而肱三头肌<sub>（图中橙色的部分）</sub>则正好处于肱肌的另一侧，肱二头肌和肱三头肌可以协助我们收起和放下前臂，在画不同的动态时，应该注意两块肌肉的鼓起程度
 
 在肘关节的位置，肘关节骨点并不会被肱三头肌所覆盖，正常情况下，肘关节的骨点是裸露的<sub>（右图中蓝色的部分）</sub>
 
-![肱三头肌](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l5-38.png)
+![肱三头肌](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l5-38.png)
 
 同时，在手臂抬得比较高时，我们也能观察到腋窝附近的喙肱肌
 
-![肱肌和喙肱肌](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l5-39.png)
+![肱肌和喙肱肌](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l5-39.png)
 
 > [!TIP] 参考：裸露的肘关节
 >
-> ![肘关节参考图](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l5-40.png)
+> ![肘关节参考图](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l5-40.png)
 
 > [!TIP] 参考：肱二头肌、肱三头肌及前臂之间的相互影响
 >
-> ![肱三头肌参考](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l5-41.png)
+> ![肱三头肌参考](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l5-41.png)
 
 ### 肱桡肌
 
 肱桡肌会把肘关节方块侧面覆盖住，同时，它的上端会“抱住”肱肌下端的“大腿”，而末端则会一只延伸到腕关节处
 
-![肱桡肌](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l5-42.png)
+![肱桡肌](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l5-42.png)
 
 > [!TIP] 参考：肱桡肌和桡侧腕长伸肌
 >
-> ![肱桡肌和桡侧腕长伸肌](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l5-43.png)
+> ![肱桡肌和桡侧腕长伸肌](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l5-43.png)
 
 ### 小臂肌肉
 
@@ -316,7 +316,7 @@ summary: "手臂结构拆解 • 人体结构课 • 肖玮春"
 
 而内侧这可以概括为一整块“收手肌群”<sub>（图中黄色部分）</sub>，它们负责把小臂往回收
 
-![小臂肌肉](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l5-44.png)
+![小臂肌肉](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l5-44.png)
 
 ## 小结
 

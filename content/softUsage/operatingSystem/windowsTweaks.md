@@ -274,7 +274,7 @@ bcdedit /set hypervisorlaunchtype auto
 
 ## 通过注册表降低网络延迟
 
-![通过注册表降低网络延迟](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/softUsage/operatingSystem/windows/img0001.png)
+![通过注册表降低网络延迟](https://attachments.chinanoahli.info/softUsage/operatingSystem/windowsTweaks/img0001.png)
 
 打开 **注册表编辑器** 然后定位到以下键 `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces`，这时你应该能在左边的窗格中看到很多由UUID命名的子键
 
@@ -295,7 +295,7 @@ bcdedit /set hypervisorlaunchtype auto
 
 错误截图如下：
 
-![AppContainerError](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/softUsage/operatingSystem/windows/img0002.png)
+![AppContainerError](https://attachments.chinanoahli.info/softUsage/operatingSystem/windowsTweaks/img0002.png)
 
 详细错误原因：
 

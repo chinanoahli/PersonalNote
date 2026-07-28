@@ -22,7 +22,7 @@ summary: "第二課 • 透視與結構 • Krenz"
 > 
 > 很多画手在画人体立绘的时，在画完人体动态之后，会产生无法确定背景（的地面）该如何画的情况
 >
-> ![L2-01](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/krenzArtwork/perspective/attachments/l2-01.png)
+> ![L2-01](https://attachments.chinanoahli.info/art/krenzArtwork/perspective/l2-01.png)
 >
 > 造成这种情况很大一部分原因是因为，在构建画面时，画手并没有注意角色本身与背景（的地面）的关系
 
@@ -30,7 +30,7 @@ summary: "第二課 • 透視與結構 • Krenz"
 
 在临摹练习时，可以尝试给作品画面先建立好三视图，以辅助画面的分析
 
-![L2-02](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/krenzArtwork/perspective/attachments/l2-02.png)
+![L2-02](https://attachments.chinanoahli.info/art/krenzArtwork/perspective/l2-02.png)
 
 然后**优先**画出地面，再利用地面的座标根据三视图，构建出画面
 
@@ -38,7 +38,7 @@ summary: "第二課 • 透視與結構 • Krenz"
 >
 > 在画好地面后，可以先找到任意一个关节（画面元素的转折点）的位置，然后逐步将关节链接起来
 
-![L2-03](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/krenzArtwork/perspective/attachments/l2-03.png)
+![L2-03](https://attachments.chinanoahli.info/art/krenzArtwork/perspective/l2-03.png)
 
 通过这种「麻烦」的画法，可以轻松地调整角色的姿势以及角度变化
 
@@ -48,7 +48,7 @@ summary: "第二課 • 透視與結構 • Krenz"
 
 完成基本的角色动态后，再利用平常临摹和画画的经验对画面进行补全，最后找照片或者其他画作素材作为参考，补全和修正细节
 
-![L2-04](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/krenzArtwork/perspective/attachments/l2-04.png)
+![L2-04](https://attachments.chinanoahli.info/art/krenzArtwork/perspective/l2-04.png)
 
 ## 透视收缩规律探讨
 
@@ -67,27 +67,27 @@ summary: "第二課 • 透視與結構 • Krenz"
     </tr>
     <tr>
         <td align="center" width="50%">
-           <img src="https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/krenzArtwork/perspective/attachments/l2-05.png" alt="L2-05"/>
+           <img src="https://attachments.chinanoahli.info/art/krenzArtwork/perspective/l2-05.png" alt="L2-05"/>
         </td>
         <td align="center" width="50%">
-           <img src="https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/krenzArtwork/perspective/attachments/l2-06.png" alt="L2-06"/>
+           <img src="https://attachments.chinanoahli.info/art/krenzArtwork/perspective/l2-06.png" alt="L2-06"/>
         </td>
     </tr>
 </table>
 
 那么画面中的立方体应该和下图一样
 
-![L2-07](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/krenzArtwork/perspective/attachments/l2-07.png)
+![L2-07](https://attachments.chinanoahli.info/art/krenzArtwork/perspective/l2-07.png)
 
 可以观察到，45° 的立方体左右两个面的宽度相同，左右两个面的透视收缩相同（上下轮廓的斜率相同）
 
-![L2-08](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/krenzArtwork/perspective/attachments/l2-08.png)
+![L2-08](https://attachments.chinanoahli.info/art/krenzArtwork/perspective/l2-08.png)
 
 ### 轮廓线的斜率
 
 将 45° 的立方体左右两个面的透视收缩与 22.5°、67.5° 的立方体对比，就可以发现：
 
-![L2-09](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/krenzArtwork/perspective/attachments/l2-09.png)
+![L2-09](https://attachments.chinanoahli.info/art/krenzArtwork/perspective/l2-09.png)
 
 1. 「22.5° 的立方体的**左边**的面」和「67.5° 的立方体的**右边**的面」的轮廓透视收缩并不如 45° 的立方体的透视收缩明显（左右两个面的轮廓线斜度与45° 的立方体对比并不明显）
 2. 「22.5° 的立方体的**右边**的面」和「67.5° 的立方体的**左边**的面」的轮廓透视收缩比 45° 的立方体的透视收缩更明显（左右两个面的轮廓线斜度与45° 的立方体对比并不明显）
@@ -98,11 +98,11 @@ summary: "第二課 • 透視與結構 • Krenz"
 
 假如一个立方体，以随机角度高速旋转，那么它旋转时所覆盖的空间是一个球型（在平面上的投射则为正圆）
 
-![L2-10](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/krenzArtwork/perspective/attachments/l2-10.png)
+![L2-10](https://attachments.chinanoahli.info/art/krenzArtwork/perspective/l2-10.png)
 
 所以立方体无论如何旋转，那么它正面和侧面的总合宽度都会在这个圆的内部
 
-![L2-11](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/krenzArtwork/perspective/attachments/l2-11.png)
+![L2-11](https://attachments.chinanoahli.info/art/krenzArtwork/perspective/l2-11.png)
 
 假设立方体左边和右边的面加起来的总宽度为 4，那么 45° 的立方体左右的面的宽度比值就是 2 : 2，而 22.5°、67.5° 的立方体分别为 3 : 1 和 1 : 3
 
@@ -118,11 +118,11 @@ summary: "第二課 • 透視與結構 • Krenz"
 
 1. 在 22.5°、67.5° 的立方体中，较长的一边约为 0.9 ~ 0.8N，较短的一边约为 0.6N
 
-![L2-12](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/krenzArtwork/perspective/attachments/l2-12.png)
+![L2-12](https://attachments.chinanoahli.info/art/krenzArtwork/perspective/l2-12.png)
 
 2. 在 45° 的立方体中，较短的一边约为 0.7N
 
-![L2-13](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/krenzArtwork/perspective/attachments/l2-13.png)
+![L2-13](https://attachments.chinanoahli.info/art/krenzArtwork/perspective/l2-13.png)
 
 
 ### 小结
@@ -137,7 +137,7 @@ summary: "第二課 • 透視與結構 • Krenz"
 
 > [!WARNING] 最右边的立方体面对摄像机的面变成了 「近小远大」？
 >
-> ![L2-14](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/krenzArtwork/perspective/attachments/l2-14.png)
+> ![L2-14](https://attachments.chinanoahli.info/art/krenzArtwork/perspective/l2-14.png)
 
 #### 透视变型的成因、画幅
 
@@ -152,10 +152,10 @@ summary: "第二課 • 透視與結構 • Krenz"
 <table align="center">
     <tr>
         <td align="center" width="50%">
-           <img src="https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/krenzArtwork/perspective/attachments/l2-15.png" alt="L2-15"/>
+           <img src="https://attachments.chinanoahli.info/art/krenzArtwork/perspective/l2-15.png" alt="L2-15"/>
         </td>
         <td align="center" width="50%">
-           <img src="https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/krenzArtwork/perspective/attachments/l2-16.png" alt="L2-16"/>
+           <img src="https://attachments.chinanoahli.info/art/krenzArtwork/perspective/l2-16.png" alt="L2-16"/>
         </td>
     </tr>
 </table>
@@ -166,7 +166,7 @@ summary: "第二課 • 透視與結構 • Krenz"
 
 但这并不利于构建日常人眼所见的透视，这样会更容易造成透视变型
 
-![L2-17](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/krenzArtwork/perspective/attachments/l2-17.png)
+![L2-17](https://attachments.chinanoahli.info/art/krenzArtwork/perspective/l2-17.png)
 
 为了避免这种情况，应该不要让两个消失点都同时出现在画面中：
 
@@ -187,10 +187,10 @@ summary: "第二課 • 透視與結構 • Krenz"
     </tr>
     <tr>
         <td align="center" width="50%">
-           <img src="https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/krenzArtwork/perspective/attachments/l2-18.png" alt="L2-18"/>
+           <img src="https://attachments.chinanoahli.info/art/krenzArtwork/perspective/l2-18.png" alt="L2-18"/>
         </td>
         <td align="center" width="50%">
-           <img src="https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/krenzArtwork/perspective/attachments/l2-19.png" alt="L2-19"/>
+           <img src="https://attachments.chinanoahli.info/art/krenzArtwork/perspective/l2-19.png" alt="L2-19"/>
         </td>
     </tr>
 </table>
@@ -204,10 +204,10 @@ summary: "第二課 • 透視與結構 • Krenz"
     </tr>
     <tr>
         <td align="center" width="50%">
-           <img src="https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/krenzArtwork/perspective/attachments/l2-20.png" alt="L2-20"/>
+           <img src="https://attachments.chinanoahli.info/art/krenzArtwork/perspective/l2-20.png" alt="L2-20"/>
         </td>
         <td align="center" width="50%">
-           <img src="https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/krenzArtwork/perspective/attachments/l2-21.png" alt="L2-21"/>
+           <img src="https://attachments.chinanoahli.info/art/krenzArtwork/perspective/l2-21.png" alt="L2-21"/>
         </td>
     </tr>
 </table>
@@ -221,17 +221,17 @@ summary: "第二課 • 透視與結構 • Krenz"
 <table align="center">
     <tr>
         <td align="center" width="50%">
-           <img src="https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/krenzArtwork/perspective/attachments/l2-22.png" alt="L2-22"/>
+           <img src="https://attachments.chinanoahli.info/art/krenzArtwork/perspective/l2-22.png" alt="L2-22"/>
         </td>
         <td align="center" width="50%">
-           <img src="https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/krenzArtwork/perspective/attachments/l2-23.png" alt="L2-23"/>
+           <img src="https://attachments.chinanoahli.info/art/krenzArtwork/perspective/l2-23.png" alt="L2-23"/>
         </td>
     </tr>
 </table>
 
 此时将观察角度改变为俯视，那么画面将会变成如下图所示，一般情况下，所有物体的z轴线条都向画面正中央（视中线）收缩
 
-![L2-24](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/krenzArtwork/perspective/attachments/l2-24.png)
+![L2-24](https://attachments.chinanoahli.info/art/krenzArtwork/perspective/l2-24.png)
 
 这时候回头看立方体B，就可以知道，立方体B如果按照一般正常的俯视视角，那么它出现的位置应该在**画面的边沿**附近，即立方体出现的位置为人眼和摄像机的**视野边缘位置**。
 
@@ -239,7 +239,7 @@ summary: "第二課 • 透視與結構 • Krenz"
 
 所以在画三点透视时，一般建议画面中第一个物体的透视的z轴，应该尽量**放到物体的内部，就像下图的样子**
 
-![L2-25](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/krenzArtwork/perspective/attachments/l2-25.png)
+![L2-25](https://attachments.chinanoahli.info/art/krenzArtwork/perspective/l2-25.png)
 
 这样，当我们后续利用这个立方体的透视推导并构建其他物体的透视时，就不太需要担心透视变型的问题
 

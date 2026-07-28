@@ -24,7 +24,7 @@ summary: "脚的结构 • 人体结构课 • 肖玮春"
 
 踝关节的**突点**，则在正方形1/2的地方
 
-![脚部的简化比例1](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l8-01.png)
+![脚部的简化比例1](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l8-01.png)
 
 接着，在脚跟方形的纵向上切三等分，贴近底面的一分的厚度，就是**脚趾**的厚度
 
@@ -32,7 +32,7 @@ summary: "脚的结构 • 人体结构课 • 肖玮春"
 
 接着找到整只脚掌的1/2，往上连接到上一步所作的辅助线上，就可以得到后脚跟与前脚掌骨骼的分界点
 
-![脚部的简化比例2](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l8-02.png)
+![脚部的简化比例2](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l8-02.png)
 
 而足弓前方肉垫的起点，正是整只脚掌的1/3处<sub>（图中绿线所标示的部分，中间的一个分段）</sub>
 
@@ -46,13 +46,13 @@ summary: "脚的结构 • 人体结构课 • 肖玮春"
 
 > [!TIP] 脚部关键红线一览
 >
-> ![脚部关键红线一览](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l8-03.png)
+> ![脚部关键红线一览](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l8-03.png)
 
 ### 脚踝
 
 由于我们需要把脚踝跟脚跟的方块接起来，所以脚踝的底部需要被理解成方形
 
-![脚踝的立体结构](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l8-04.png)
+![脚踝的立体结构](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l8-04.png)
 
 而从顶视图看，可以发现脚踝两边凸起的骨点大致是在脚跟方块的中间位置
 
@@ -62,13 +62,13 @@ summary: "脚的结构 • 人体结构课 • 肖玮春"
 
 胫骨的线条，可以给作画时带来很好的空间提示；同时，在画脚背的弧度时也能起到提示作用
 
-![胫骨线的暗示作用](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l8-05.png)
+![胫骨线的暗示作用](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l8-05.png)
 
 ### 脚跟
 
 脚跟的诸多骨骼可以简化成一个类似“小猪佩奇”的头的几何形体
 
-![脚踝骨骼的简化](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l8-06.png)
+![脚踝骨骼的简化](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l8-06.png)
 
 但是在认真观察脚跟的时候，可以发现：
 
@@ -76,7 +76,7 @@ summary: "脚的结构 • 人体结构课 • 肖玮春"
 
 从内侧看时，脚跟的头部会更小一些，而从外侧看，脚跟的头部则更宽一些
 
-![脚跟的不同视角](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l8-07.png)
+![脚跟的不同视角](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l8-07.png)
 
 但是，为了后续理解方便，我们需要先忽略这些小的形体差异，细节可以后面再进行修正
 
@@ -90,11 +90,11 @@ summary: "脚的结构 • 人体结构课 • 肖玮春"
 
 这样就可以更好地处理一些角度比较刁钻的需求
 
-![快速上手画脚跟](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l8-08.png)
+![快速上手画脚跟](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l8-08.png)
 
 当然，按照传统的方式同样可以轻松地画出脚跟
 
-![传统方式画脚跟](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l8-09.png)
+![传统方式画脚跟](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l8-09.png)
 
 ### 脚底
 
@@ -102,21 +102,21 @@ summary: "脚的结构 • 人体结构课 • 肖玮春"
 
 为了更好匹配脚趾的形状<sub>（大拇指和是指较长，其余三指较短）</sub>，通常鞋尖都会设计得更偏向于大拇指的一侧
 
-![鞋底](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l8-10.png)
+![鞋底](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l8-10.png)
 
 同时，根据前面学到的比例划分，把鞋底划分为三等分之后，我们可以发现，大拇指根部的突起骨点，正好处于1/3的位置
 
-![大拇指根部的骨点](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l8-11.png)
+![大拇指根部的骨点](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l8-11.png)
 
 #### 脚底的应用展示
 
 首先，仍然是定义好脚底的透视形态，然后找到脚跟方块与“猪鼻子”
 
-![脚底应用展示1](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l8-12.png)
+![脚底应用展示1](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l8-12.png)
 
 接下来，根据透视形态，安排脚底的形状，最后在根据脚底的形状，画出脚部
 
-![脚底应用展示2](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l8-13.png)
+![脚底应用展示2](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l8-13.png)
 
 ## 脚趾
 
@@ -126,11 +126,11 @@ summary: "脚的结构 • 人体结构课 • 肖玮春"
 
 同时还要定义好脚趾上表面的长出位置
 
-![软管子区域](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l8-14.png)
+![软管子区域](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l8-14.png)
 
 接下来，先处理大拇指，与画手相同，先定义出两节指背平面的状态，然后用偏软偏圆的线条去补全侧面<sub>（把拇指想象成一个软馒头）</sub>
 
-![画出大拇指](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l8-15.png)
+![画出大拇指](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l8-15.png)
 
 因为脚趾的可动范围不如手指大，所以其余四指我们可以先简化为一个外轮廓
 
@@ -142,13 +142,13 @@ summary: "脚的结构 • 人体结构课 • 肖玮春"
 >
 > 大拇指有2个指节，其余四指有3个指节，所以在安排转折的时候要注意不要弄错
 
-![画出剩余四指的轮廓](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l8-16.png)
+![画出剩余四指的轮廓](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l8-16.png)
 
 从脚部的真实骨骼结构来分析，我们可以从*前视图*中发现下图中被标记为*④*的**跖骨**是一个拱形的结构，从拇指一侧开始，高度逐渐降低
 
 而从顶视图看，我们也可以得到因为**跖骨**的长度各有不同，所以脚趾的长度也各有不同的结论
 
-![脚部骨骼](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l8-17.png)
+![脚部骨骼](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l8-17.png)
 
 在画外侧和内侧的脚的时候，必须考虑到因为骨头形态带来的差异
 
@@ -156,7 +156,7 @@ summary: "脚的结构 • 人体结构课 • 肖玮春"
 
 而从正外侧看，因为脚趾的大小从小拇指开始依次变大，所以我们在画在内侧视角的时候就必须把所有脚趾都画出来
 
-![内外侧视图的差异](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l8-18.png)
+![内外侧视图的差异](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l8-18.png)
 
 ## 鞋子
 
@@ -168,7 +168,7 @@ summary: "脚的结构 • 人体结构课 • 肖玮春"
 
 最后，是鞋尖部分，它的透视走向必须跟前脚掌的透视走向符合
 
-![鞋子的三个重点](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l8-19.png)
+![鞋子的三个重点](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l8-19.png)
 
 如果这三个区域的透视与脚的透视有不符的现象，鞋子看起来就会崩掉
 
@@ -176,10 +176,10 @@ summary: "脚的结构 • 人体结构课 • 肖玮春"
 
 > [!TIP] 足骨
 >
-> ![足骨](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l8-20.png)
+> ![足骨](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l8-20.png)
 
 > [!TIP] 胫骨前肌造成的突起
 >
 > 橙色的肌肉就是胫骨前肌
 >
-> ![胫骨前肌造成的突起](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l8-21.png)
+> ![胫骨前肌造成的突起](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l8-21.png)

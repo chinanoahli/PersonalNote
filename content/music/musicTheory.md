@@ -60,7 +60,7 @@ summary: "乐理自学笔记"
 
 简谱是音乐的记谱法之一，主要以数字作为记号来表示音乐，绝大多数的简谱看起来都跟下图很像，下图为《[奇异恩典](https://zh.wikipedia.org/wiki/%E5%A5%87%E7%95%B0%E6%81%A9%E5%85%B8)》的简谱
 
-![AmazingGraceNumberedMusicalNotation](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/music/selfStudy/musicTheory/attachments/img_0001.png)
+![AmazingGraceNumberedMusicalNotation](https://attachments.chinanoahli.info/music/musicTheory/img_0001.png)
 
 ### 标题
 
@@ -110,7 +110,7 @@ summary: "乐理自学笔记"
 
 要降低的音只需要在数字下方加点原点，同理，按照降低的次数加点圆点，且最高不超过 4 个圆点
 
-![Dots](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/music/selfStudy/musicTheory/attachments/img_0002.svg)
+![Dots](https://attachments.chinanoahli.info/music/musicTheory/img_0002.svg)
 
 ### 其他相对没那么重要的标记
 
@@ -141,7 +141,7 @@ summary: "乐理自学笔记"
 
 每个组包含了 *7* 个白键和 *5* 个黑键，而且左边的按键发出的音高总比右边的按键发出的音高要低
 
-![PianoBasicGroup](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/music/selfStudy/musicTheory/attachments/img_0003.svg)
+![PianoBasicGroup](https://attachments.chinanoahli.info/music/musicTheory/img_0003.svg)
 
 > [!WARNING]
 >
@@ -157,7 +157,7 @@ summary: "乐理自学笔记"
 
 每一个组的 7 个 **白键** 正好对应 7 个音名，从左到右依次分别都是 *C D E F G A B*
 
-![WhiteKeyNames](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/music/selfStudy/musicTheory/attachments/img_0004.svg)
+![WhiteKeyNames](https://attachments.chinanoahli.info/music/musicTheory/img_0004.svg)
 
 除了白键，我们可以看到每一组按键中还有 5 个黑键，那么黑键又要如何称呼呢？
 
@@ -177,7 +177,7 @@ summary: "乐理自学笔记"
 
 因此，白键与黑键的名称应该如下图显示的一般
 
-![BlackKeyNames](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/music/selfStudy/musicTheory/attachments/img_0005.svg)
+![BlackKeyNames](https://attachments.chinanoahli.info/music/musicTheory/img_0005.svg)
 
 ### 两种不同的音高记号法
 
@@ -201,7 +201,7 @@ summary: "乐理自学笔记"
 
 下图为 *科学音高记号法* 的钢琴全键名称示意图
 
-![SPN](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/music/selfStudy/musicTheory/attachments/img_0006.svg)
+![SPN](https://attachments.chinanoahli.info/music/musicTheory/img_0006.svg)
 
 #### 亥姆霍兹音高记号法
 
@@ -237,7 +237,7 @@ summary: "乐理自学笔记"
 
 同样地，其他键的音名根据这种模式推出来即可，下图为 *亥姆霍兹音高记号法* 的钢琴全键名称示意图
 
-![Helmholtz](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/music/selfStudy/musicTheory/attachments/img_0007.svg)
+![Helmholtz](https://attachments.chinanoahli.info/music/musicTheory/img_0007.svg)
 
 > [!IMPORTANT]
 >
@@ -261,7 +261,7 @@ summary: "乐理自学笔记"
 
 因此除了 `G♯ / A♭` 以外，所有的琴键都有三个等价的名称
 
-![ExternalKeyName](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/music/selfStudy/musicTheory/attachments/img_0008.svg)
+![ExternalKeyName](https://attachments.chinanoahli.info/music/musicTheory/img_0008.svg)
 
 ### `1 = C` 的补充
 
@@ -272,7 +272,7 @@ summary: "乐理自学笔记"
 1. [前面](#音域)我们提到过：简谱绝大部分都是为了写给音乐入门新人以及音域在一般人范围的歌者使用，他们的音域绝大部分都落在 *G3 ~ D5* 的范围，为了让读谱的人更方便，自然是需要把最常唱出的音对应在大部分人的音域范围中
 2. 简谱的高低音点如果太多，会让简谱变得很复杂，为了尽可能与钢琴对应，将 `do` 对应到 *C4* ，就可以尽可能减少高低音点的使用，从而达到简化谱面的效果
 
-![PianoAndNotation](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/music/selfStudy/musicTheory/attachments/img_0009.svg)
+![PianoAndNotation](https://attachments.chinanoahli.info/music/musicTheory/img_0009.svg)
 
 ### 中央 C
 
@@ -332,7 +332,7 @@ summary: "乐理自学笔记"
 
 先在来分析一下这些白键的之间的关系:
 
-![1to7](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/music/selfStudy/musicTheory/attachments/img_0010.svg)
+![1to7](https://attachments.chinanoahli.info/music/musicTheory/img_0010.svg)
 
 就可以发现， *do* ~ *si* *do* *音列* 实际上对应的是一个 *全 全 半 全 全 全 半* 这样一个音的差距之间的循环组合
 
@@ -340,7 +340,7 @@ summary: "乐理自学笔记"
 
 如果我们让 `1 = D` 的话，按照 *全 全 半 全 全 全 半* 这组序列推算，就必须要弹奏 *D E F♯ G A B C♯ D* ，如下图一样
 
-![1=D](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/music/selfStudy/musicTheory/attachments/img_0011.svg)
+![1=D](https://attachments.chinanoahli.info/music/musicTheory/img_0011.svg)
 
 同理让 `1 = E` 的话， *音列* 就会变成 *E F♯ G♯ A B C♯ D♯ E*
 
@@ -426,7 +426,7 @@ summary: "乐理自学笔记"
 
 假如 *大调* 从 `C♯` 出发，那么为了让每一个音名都能出现在 *大调音阶* 里面，我们需要把它记成 `C♯ D♯ E♯ F♯ G♯ A♯ B♯ C♯` ，因为只有这样，才会让这个 *音列* 的逻辑感更强
 
-![ExternalKeyName](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/music/selfStudy/musicTheory/attachments/img_0008.svg)
+![ExternalKeyName](https://attachments.chinanoahli.info/music/musicTheory/img_0008.svg)
 
 > [!NOTE]
 >

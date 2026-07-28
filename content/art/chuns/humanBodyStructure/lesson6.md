@@ -24,15 +24,15 @@ summary: "腿部结构拆解 • 人体结构课 • 肖玮春"
 >
 > 这里的简化比例，下面的部分是包含脚部的高度的 ~~，并非只有大腿和小腿~~
 
-![腿部的比例](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l6-01.png)
+![腿部的比例](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l6-01.png)
 
 而从关节球大小看，跟上一节课的手臂<sub>（参照脖子）</sub>类似，腿部则是以头部作为参照，大转子处越为一个头宽度，到了膝盖则是3/4个头，到了脚踝则是2/4个头的宽度
 
-![关节球大小](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l6-02.png)
+![关节球大小](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l6-02.png)
 
 在分析腿部的弧度起伏时，应尤其注意横截面的弧度与视角之间微妙的角度变化<sub>（难点，要多思考）</sub>
 
-![注意弧度线的角度变化](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l6-03.png)
+![注意弧度线的角度变化](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l6-03.png)
 
 ## 从骨盆开始
 
@@ -42,7 +42,7 @@ summary: "腿部结构拆解 • 人体结构课 • 肖玮春"
 
 另外，女性的大腿脂肪相对于男性来说高很多，所以在画女性大腿的时候，可以用更圆润的线条表达，而男性则可以用更直更硬朗的线条刻画
 
-![男女骨盆对比](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l6-04.png)
+![男女骨盆对比](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l6-04.png)
 
 > [!TIP]
 >
@@ -50,13 +50,13 @@ summary: "腿部结构拆解 • 人体结构课 • 肖玮春"
 
 在不做出极端动作<sub>（如：劈叉、体操等）</sub>的情况下，大转子的位置大部分情况下，都处于骨盆方块的侧面下边沿的中点处
 
-![大转子的位置](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l6-05.png)
+![大转子的位置](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l6-05.png)
 
 从之前胯部分析学到的知识，我们可以知道，大转子并未被大量肉覆盖，它是处于体表的一个骨点
 
 所以，我们在画不同的大腿朝向的时候，可以以大转子作为参考，**切大转子**作大小合适的圆切面<sub>（吸管与珍珠）</sub>，就可以得到大腿的顶面
 
-![定义大腿的起点](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l6-06.png)
+![定义大腿的起点](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l6-06.png)
 
 > [!TIP]
 >
@@ -64,13 +64,13 @@ summary: "腿部结构拆解 • 人体结构课 • 肖玮春"
 >
 > 同时，阔筋膜张肌会被挤压形变得十分厉害，而臀大肌也会被拉伸开来
 >
-> ![大转子的位移](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l6-07.png)
+> ![大转子的位移](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l6-07.png)
 >
 > 只有理解好这些骨头的翻转状态，才能画出令人信服的肌肉
 
 在画不同角度的臀部的时候，应该注意腿部的圆柱所带来的透视暗示，只有表达好了这些暗示透视的穿插线，才可能画出可信的人体
 
-  ![穿插线暗示透视关系](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l6-08.png)
+  ![穿插线暗示透视关系](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l6-08.png)
 
 > [!WARNING]
 >
@@ -80,7 +80,7 @@ summary: "腿部结构拆解 • 人体结构课 • 肖玮春"
 
 与手臂的处理方法类似，从大转子沿着大腿侧边作直线<sub>（可以参考髂胫束的位置）</sub>，就可以找到膝关节方块的位置
 
-![膝关节方块](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l6-09.png)
+![膝关节方块](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l6-09.png)
 
 在膝关节方块里面，以与大转子同侧的面作为顶面，并切出圆柱体作为膝关节的参考
 
@@ -90,7 +90,7 @@ summary: "腿部结构拆解 • 人体结构课 • 肖玮春"
 
 而下方的三角形，约占胫骨的1/3，画的时候注意不要画太短
 
-![膝关节简化](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l6-10.png)
+![膝关节简化](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l6-10.png)
 
 上面梯形的部分，则是骨骼相对裸露的区域，这个区域不会被肌肉覆盖
 
@@ -100,7 +100,7 @@ summary: "腿部结构拆解 • 人体结构课 • 肖玮春"
 
 膝关节的圆点与小腿的箭头一同运动，当小腿弯曲时，膝关节圆点和小腿箭头的距离始终不变，而膝关节圆点跟大腿梯形的距离则会被拉长
 
-![膝关节的运动](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l6-11.png)
+![膝关节的运动](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l6-11.png)
 
 ## 大腿肌肉
 
@@ -114,33 +114,33 @@ summary: "腿部结构拆解 • 人体结构课 • 肖玮春"
 >
 > 从侧面看时，要注意不要直接用较直的点去连接
 
-![缝匠肌](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l6-12.png)
+![缝匠肌](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l6-12.png)
 
 接下来是**股直肌**<sub>（红色）</sub>，它的起点与缝匠肌的起点差不多，一直往下生长到膝盖骨上方为止
 
-![股直肌](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l6-13.png)
+![股直肌](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l6-13.png)
 
 在股直肌的两侧还有**股外侧肌**<sub>（蓝色①）</sub>和 **股内侧肌**<sub>（蓝色②）</sub>，则两块肌肉分别会包括住大腿的正面与两个侧面，他们的末端，要比股直肌要稍微长一些
 
-  ![股外侧肌和股内侧肌](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l6-14.png)
+  ![股外侧肌和股内侧肌](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l6-14.png)
 
 在大腿内侧，还有若干块体积较大，较为结实的肌肉，在这统称为“**内收肌群**<sub>（棕色）</sub>”
 
-![内收肌群](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l6-15.png)
+![内收肌群](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l6-15.png)
 
 从后侧看，还能看到大腿后面有**股二头肌**<sub>（棕色①）</sub>和**半腱肌**<sub>（棕色②）</sub>
 
-![股二头肌和半腱肌](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l6-16.png)
+![股二头肌和半腱肌](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l6-16.png)
 
 ## 照片分析
 
 仔细观察下图原图以及分析演示，体会小腿的透视变化，以及膝盖的弯曲状态
 
-![照片分析1](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l6-17.png)
+![照片分析1](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l6-17.png)
 
 从正侧面的照片上看，可以很清晰地看到膝盖骨的地方
 
-![照片分析2](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l6-18.png)
+![照片分析2](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l6-18.png)
 
 我们可以模仿一下图中的动作，然后摸摸膝盖骨下方，可以发现，胫骨<sub>（下称小腿骨）</sub>并不与膝盖骨平齐，它还有一定程度的凸起
 
@@ -150,7 +150,7 @@ summary: "腿部结构拆解 • 人体结构课 • 肖玮春"
 
 在参考肌肉解剖图的时候，我们可以尝试先找到**小腿骨的内侧面**，因为小腿骨的侧面是完全没有肌肉覆盖的
 
-![小腿骨的参考](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l6-19.png)
+![小腿骨的参考](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l6-19.png)
 
 ## 腿部骨头的分析
 
@@ -158,19 +158,19 @@ summary: "腿部结构拆解 • 人体结构课 • 肖玮春"
 
 所以我们在理解腿部骨骼的时候，可以直接将大腿和小腿的骨骼都简单地简化成一块几何形体去处理
 
-![腿部骨头分析](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l6-20.png)
+![腿部骨头分析](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l6-20.png)
 
 ## 小腿的外轮廓
 
 小腿的形状比较像是一只🍗，在小腿的1/2处画出圆切面，其上方用饱满的弧线概括，其下方用较为硬朗的直线概括
 
-![小腿轮廓概括](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l6-21.png)
+![小腿轮廓概括](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l6-21.png)
 
 从正面或后面看，可以发现小腿上方和肌肉突出点，会有一种外侧高，内侧低的形态
 
 而脚踝处的突出骨点则正好相反，为内侧高外侧低
 
-![外轮廓的突出点](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l6-22.png)
+![外轮廓的突出点](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l6-22.png)
 
 ## 小腿的肌肉
 
@@ -180,7 +180,7 @@ summary: "腿部结构拆解 • 人体结构课 • 肖玮春"
 
 再往下，还可以看到一块长长的肌肉连接到脚跟，它就是**比目鱼肌**<sub>（紫色边框）</sub>
 
-![小腿肌肉](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l6-23.png)
+![小腿肌肉](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l6-23.png)
 
 从前面看，我们可以看到小腿骨的里侧没有肌肉附着，而外侧，则附有**胫骨前肌**<sub>（红色）</sub>
 
@@ -188,12 +188,12 @@ summary: "腿部结构拆解 • 人体结构课 • 肖玮春"
 
 > [!TIP] 参考：腿部肌肉
 >
-> ![腿部肌肉](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l6-24.png)
+> ![腿部肌肉](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l6-24.png)
 
 > [!TIP] 参考：理解腿部后面的窍门
 >
-> ![理解腿部后面的窍门](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l6-25.png)
+> ![理解腿部后面的窍门](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l6-25.png)
 
 > [!TIP] 参考：以之字形向下横移的下肢肌肉
 >
-> ![以之字形向下横移的下肢肌肉](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l6-26.png)
+> ![以之字形向下横移的下肢肌肉](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l6-26.png)

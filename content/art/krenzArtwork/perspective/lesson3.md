@@ -14,11 +14,11 @@ summary: "第三課 • 透視與結構 • Krenz"
 
 如何分析像下图一样，随机角度堆叠的立方体：
 
-![L3-01](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/krenzArtwork/perspective/attachments/l3-01.png)
+![L3-01](https://attachments.chinanoahli.info/art/krenzArtwork/perspective/l3-01.png)
 
 先简单根据图中的信息，描画一下立方体的轮廓并建立顶视图
 
-![L3-02](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/krenzArtwork/perspective/attachments/l3-02.png)
+![L3-02](https://attachments.chinanoahli.info/art/krenzArtwork/perspective/l3-02.png)
 
 这时候就可以发现，除了盒子A，其他立方体均与地面角度相异
 
@@ -26,15 +26,15 @@ summary: "第三課 • 透視與結構 • Krenz"
 
 用同样的方法延伸盒子B的线条时就会发现，虽然盒子B的消失点，与盒子A和地面的消失点不重合，但仍然落在**同一水平线**上
 
-![L3-03](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/krenzArtwork/perspective/attachments/l3-04.png)
+![L3-03](https://attachments.chinanoahli.info/art/krenzArtwork/perspective/l3-04.png)
 
 接着分析纸片C和盒子D，可以印证上面一次分析说得的现象
 
-![L3-04](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/krenzArtwork/perspective/attachments/l3-04.png)
+![L3-04](https://attachments.chinanoahli.info/art/krenzArtwork/perspective/l3-04.png)
 
 尽管立方体的角度各异，但只要它们在**同一个平面（或说与该平面产生关联，如：叠放在该平面的某处）**，它们的消失点必然落在**同一水平线**上
 
-![L3-05](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/krenzArtwork/perspective/attachments/l3-05.gif)
+![L3-05](https://attachments.chinanoahli.info/art/krenzArtwork/perspective/l3-05.gif)
 
 但是，假如将这个结论直接套用到作画中，就很容易造成「如果画面中的物体太多，要给透视检查时需要大量辅助线，让画面变得混乱不堪」的毛病
 
@@ -42,21 +42,21 @@ summary: "第三課 • 透視與結構 • Krenz"
 >
 > 可以利用连接对角线得到正方形的中点，从而找到平分正方体的十字线，然后通过连接每边的平分点来获得旋转 45° 以后的正方形
 >
-> ![L3-06](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/krenzArtwork/perspective/attachments/l3-06.png)
+> ![L3-06](https://attachments.chinanoahli.info/art/krenzArtwork/perspective/l3-06.png)
 
 > [!Tip]
 >
 > 将此方法应用到带透视的任意立方体中，即可将该立方体旋转 45°
 >
-> ![L3-07](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/krenzArtwork/perspective/attachments/l3-07.png)
+> ![L3-07](https://attachments.chinanoahli.info/art/krenzArtwork/perspective/l3-07.png)
 
 > [!Tip]
 >
 > 在实际作画中，只要应用上面的窍门，找到一块大致是正方形的地板，就可以构建出不同角度的物体
 >
-> ![L3-08](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/krenzArtwork/perspective/attachments/l3-08.png)
+> ![L3-08](https://attachments.chinanoahli.info/art/krenzArtwork/perspective/l3-08.png)
 >
-> ![L3-09](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/krenzArtwork/perspective/attachments/l3-09.png)
+> ![L3-09](https://attachments.chinanoahli.info/art/krenzArtwork/perspective/l3-09.png)
 
 ## 利用透视临摹带景画作的步骤简述
 
@@ -66,7 +66,7 @@ summary: "第三課 • 透視與結構 • Krenz"
 
 ### 三种「线」概念的差异
 
-> ![L3-10](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/krenzArtwork/perspective/attachments/l3-10.png)
+> ![L3-10](https://attachments.chinanoahli.info/art/krenzArtwork/perspective/l3-10.png)
 
 在一般情况下，人观察物体，物体一般与地面平行
 
@@ -94,7 +94,7 @@ summary: "第三課 • 透視與結構 • Krenz"
 
 > 在理解了「斜面（斜坡）透视」后，就可以明白：浮空方块透视与斜面透视的差异在于「浮空方块所在的面比『斜坡』的角度更加自由」
 
-![L3-11](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/krenzArtwork/perspective/attachments/l3-11.png)
+![L3-11](https://attachments.chinanoahli.info/art/krenzArtwork/perspective/l3-11.png)
 
 > [!Tip] 一句话总结
 >

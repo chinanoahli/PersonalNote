@@ -99,7 +99,7 @@ summary: "GnuPG 套件创建、管理密钥对"
 
 8. 接下来系统会弹出一个窗口，要求用户设置一个 **<i>口令 <sub>(passphrase)</sub></i>** 用以保护密钥对
 
-   ![passphrase](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/softUsage/devSoft/attachments/gpg_img001.png)
+   ![passphrase](https://attachments.chinanoahli.info/softUsage/devSoft/gnupg/gpg_img001.png)
 
 9. 随便做点别的事，让 GnuPG 获取到足够生成密钥需要用到的信息熵<br />稍等片刻，直至密钥成功生成，请记下密钥的 **<i>KeyID</i>** ，本例中为 `4CC5████████EE6D38ED████A21C`
 

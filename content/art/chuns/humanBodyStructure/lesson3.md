@@ -18,7 +18,7 @@ summary: "头颈肩与胸腔的连接 • 人体结构课 • 肖玮春"
 
 为了更好地理解脊椎，我们需要把脊椎拆分为4部分
 
-  ![脊椎总览](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l3-01.png)
+  ![脊椎总览](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l3-01.png)
 
 + 脖子的部分，属于**可动**区域
 
@@ -30,7 +30,7 @@ summary: "头颈肩与胸腔的连接 • 人体结构课 • 肖玮春"
 
 <sub>这里的 **可动 / 不可动** 区域是指那一段骨骼在人体摆出不同动态时会不会发生大幅度的 *形变* 或 *转向* </sub>
 
-  ![上半身的比例](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l3-02.png)
+  ![上半身的比例](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l3-02.png)
 
 从侧视图来看，在比例上，我们可以把上胸腔以上的比例简化成：
 
@@ -47,11 +47,11 @@ summary: "头颈肩与胸腔的连接 • 人体结构课 • 肖玮春"
 >
 > 比较合理的做法是，把颅骨后面到胸腔顶部的长度作为脖子的长度，因为颈椎的长度变化在不同的动态中几乎可以忽略不计，在某些情况下也只会发生轻微弯曲
 >
-> ![准确地找到脖子的长度](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l3-03.png)
+> ![准确地找到脖子的长度](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l3-03.png)
 
 ## 胸腔
 
-![胸腔总览](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l3-04.png)
+![胸腔总览](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l3-04.png)
 
 胸腔的理解同样可以以类似学习头部的流程学习
 
@@ -59,7 +59,7 @@ summary: "头颈肩与胸腔的连接 • 人体结构课 • 肖玮春"
 
 但找准体积与比例对于初学者来说，总体是困难的
 
-![快速找到比例的方法](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l3-05.png)
+![快速找到比例的方法](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l3-05.png)
 
 为了更快速地找准比例和体积，我们可以先以两个椭圆标示需头部和胸腔的相对位置和大小，在这一步中，只需要做到大致正确就可以
 
@@ -79,26 +79,26 @@ summary: "头颈肩与胸腔的连接 • 人体结构课 • 肖玮春"
 >
 > 正确的做法是：参照 ***脊椎*** 的方向，画出切胸前前方弧度的 ***平行线***
 >
-> ![找出胸腔的厚度](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l3-06.png)
+> ![找出胸腔的厚度](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l3-06.png)
 
 ### 从照片到方块空间
 
 首先我们可以在参考照片中，用圆或者两条弧线，大致地框出头和胸腔所在的区域，此时只要注意头和胸腔的大小比例即可
 
-![框出头和胸腔](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l3-07.png)
+![框出头和胸腔](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l3-07.png)
 <sub>这个框住的区域有助与我们定位头与胸腔的相对位置，还可以在后续画方块空间的时候起到限位的作用，避免我们画出比例不正确的方块</sub>
 
 然后根据照片里面五官和肌肉轮廓的位置，尝试补上转面的弧线，以找出大致的透视走势
 
-![画出转面弧线](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l3-08.png)
+![画出转面弧线](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l3-08.png)
 
 > 在这里还可以尝试根据照片找到肩关节球和上臂的位置
 >
-> ![找出肩关节和上臂](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l3-09.png)
+> ![找出肩关节和上臂](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l3-09.png)
 
 然后根据照片里面角色的动态，找到中线
 
-  ![找到中线](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l3-10.png)
+  ![找到中线](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l3-10.png)
 
 > [!WARNING]
 >
@@ -108,7 +108,7 @@ summary: "头颈肩与胸腔的连接 • 人体结构课 • 肖玮春"
 
 此时就可以根据透视原理，对方块空间的其他线条进行补全了
 
-  ![补全方块空间的其他线条](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l3-11.png)
+  ![补全方块空间的其他线条](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l3-11.png)
 
 > [!TIP]
 >
@@ -120,19 +120,19 @@ summary: "头颈肩与胸腔的连接 • 人体结构课 • 肖玮春"
 >
 > 可以先在一个确定的轮廓里，找出脊椎及体块的相对位置，然后再为体块安排不同的透视状态即可快速创作出在相同的轮廓/剪影里，动态皆不同的角色
 >
-> ![简单的创作流程一览](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l3-12.png)
+> ![简单的创作流程一览](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l3-12.png)
 
 > [!TIP] 如果是背面的照片要怎么才能找准中线？（感谢洋葱助教解答）
 >
 > 通过常识结合查阅资料，我们可以知道，人体骨骼正常状况下都由肌肉包覆，我们看到的参考照片也不例外
 >
-> ![参考图片](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l3-13.png)
+> ![参考图片](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l3-13.png)
 >
 > 从上面的参考图片可知，我们画的胸腔方块空间，适当简化后将会是下图的样子
 >
 > <sub>红色鼓起的部分代表肌肉的凸起</sub>
 >
-> ![助教解说1](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l3-14.png)
+> ![助教解说1](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l3-14.png)
 >
 > 在从《艺用人体结构中》找一张已经找好方块的图进行分析，假如我们用惯性思维去思考，将会是 ***第一排*** 图片的情况
 >
@@ -140,7 +140,7 @@ summary: "头颈肩与胸腔的连接 • 人体结构课 • 肖玮春"
 >
 > 因为此时切线的位置已经相当靠外，所以为了让透视收缩更合理，最后我们只能加宽方块，这样就会画出错误的方块空间
 >
-> ![正确与错误的方法对比](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l3-15.png)
+> ![正确与错误的方法对比](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l3-15.png)
 >
 > 而正确的做法，应该是像 ***第二排*** 图片所展示的方法：
 >
@@ -151,7 +151,7 @@ summary: "头颈肩与胸腔的连接 • 人体结构课 • 肖玮春"
 >
 > 套用到作业上，就应该以下的效果
 >
-> ![作业简析](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l3-16.png)
+> ![作业简析](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l3-16.png)
 >
 > > [!WARNING]
 > >
@@ -167,7 +167,7 @@ summary: "头颈肩与胸腔的连接 • 人体结构课 • 肖玮春"
 
 正确的简化应该是以胸腔的蛋形作为宽度，以颈椎和胸椎之间的节点作为顶部的起点进行简化
 
-![胸腔的关键点](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l3-17.png)
+![胸腔的关键点](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l3-17.png)
 
 从外形看，胸腔可以简化为一个上下被削平的蛋形（或说鸟笼形）
 
@@ -177,11 +177,11 @@ summary: "头颈肩与胸腔的连接 • 人体结构课 • 肖玮春"
 
 简化后，可以以下面的模型代表胸腔
 
-![胸腔的简化模型](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l3-18.png)
+![胸腔的简化模型](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l3-18.png)
 
 #### 画出胸腔模型
 
-![胸腔的画法](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l3-19.png)
+![胸腔的画法](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l3-19.png)
 
 在构建好方块空间后，可以先找出胸腔上下圆切面的中线
 
@@ -203,7 +203,7 @@ summary: "头颈肩与胸腔的连接 • 人体结构课 • 肖玮春"
 >
 > 在画完胸腔以后，需要检查胸腔上半部分的倾斜度是否有在立体空间中正确而表达
 >
-> ![胸腔上部的弧度](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l3-20.png)
+> ![胸腔上部的弧度](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l3-20.png)
 >
 > 同时还需要思考在当前的观察角度下，是否可以通过胸腔下方的空洞看到另一边的面，如果可以看到，就需要补全背面的结构
 
@@ -211,7 +211,7 @@ summary: "头颈肩与胸腔的连接 • 人体结构课 • 肖玮春"
 
 ### 简化锁骨和肩胛骨
 
-![胸腔顶视图](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l3-21.png)
+![胸腔顶视图](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l3-21.png)
 
 锁骨的形状类似一般自行车的龙头（上图粉红色部分），它是一段拥有 约**2/3** 弧度、约**1/3** 平直的骨头
 
@@ -219,7 +219,7 @@ summary: "头颈肩与胸腔的连接 • 人体结构课 • 肖玮春"
 
 从骨骼图片中可以观察到，通常锁骨的长度也会超出方块空间一点点
 
-![锁骨和肩胛骨的简化模型](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l3-22.png)
+![锁骨和肩胛骨的简化模型](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l3-22.png)
 
 而从背面看，可以观察到肩胛骨的宽度，大约是 **锁骨的1/2**
 
@@ -227,57 +227,57 @@ summary: "头颈肩与胸腔的连接 • 人体结构课 • 肖玮春"
 
 从肩关节球的位置来看，它的顶端恰好可以跟锁骨的外侧末端相接
 
-![脖子关节球的位置](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l3-23.png)
+![脖子关节球的位置](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l3-23.png)
 
 从顶上往下看，锁骨和肩胛骨可以简化为一个类似眼睛的形状
 
-![肩胛骨顶视图简化](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l3-24.png)
+![肩胛骨顶视图简化](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l3-24.png)
 
 从侧面看，可以看到锁骨跟肩胛骨相连
 
-![锁骨和肩胛骨的侧视图](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l3-25.png)
+![锁骨和肩胛骨的侧视图](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l3-25.png)
 
 两边锁骨都是可动的，但它可动的范围比较小
 
 在胸腔保持不动的情况下，每一边的锁骨都可以单独像时钟指针一样，绕着胸前的支点左右转动以外
 
-![锁骨的左右转动](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l3-26.png)
+![锁骨的左右转动](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l3-26.png)
 
 在我们抬高手臂时，锁骨也可以以胸前的支点稍作抬高
 
-![锁骨的抬高](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l3-27.png)
+![锁骨的抬高](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l3-27.png)
 
 > [!NOTE]
 >
 > 关于锁骨抬高，我个人是这样想象的，做了个小GIF，但不一定准确 \[手动狗头\]
 >
-> ![锁骨的抬高GIF](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l3-28.gif)
+> ![锁骨的抬高GIF](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l3-28.gif)
 
 同时我们还要注意，当手臂甩动或抬高时，除了锁骨会做对应的旋转以外，不要忘了肩胛骨也会被锁骨的动作带动，在画后背时，应尤其注意肩胛骨的状态
 
-![锁骨带动肩胛骨运动](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l3-29.png)
+![锁骨带动肩胛骨运动](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l3-29.png)
 
 ## 头颈肩的连接
 
-![脖子的肌肉](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l3-30.png)
+![脖子的肌肉](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l3-30.png)
 
 脖子最主要的有两类肌肉
 
-![脖子前面的肌肉](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l3-31.png)
+![脖子前面的肌肉](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l3-31.png)
 
 从前面看，最明显的是胸锁乳突肌，从背面看，最明显的则是斜方肌
 
-![脖子后面的肌肉](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l3-32.png)
+![脖子后面的肌肉](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l3-32.png)
 
 ### 胸锁乳突肌
 
 从上面的参考图我们可以知道胸锁乳突肌从 **耳后** 开始生长，沿着脖子一直连接到锁骨的尖端，在到达尖端之前，还会分叉出一小束，连接到锁骨尖端靠外一点的位置
 
-![胸锁乳突肌特写](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l3-33.png)
+![胸锁乳突肌特写](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l3-33.png)
 
 其生长趋势绕着脖子的弧度旋转，所以我们在画胸锁乳突肌的时候，要注意判断在当前观察角度下，它是完全可见，还是说会被遮住一部分
 
-![考虑遮挡关系](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l3-34.png)
+![考虑遮挡关系](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l3-34.png)
 
 在我们脖子放松的时候，颈椎自然弯曲向上
 
@@ -285,7 +285,7 @@ summary: "头颈肩与胸腔的连接 • 人体结构课 • 肖玮春"
 
 但在我们低头的时候，颈椎却不会向前弯曲，由于斜方肌的拉扯，颈椎会保持较为笔直的状态向前倾斜
 
-![抬头和低头](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l3-35.png)
+![抬头和低头](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l3-35.png)
 
 ### 下巴和脖子怎么画
 
@@ -293,13 +293,13 @@ summary: "头颈肩与胸腔的连接 • 人体结构课 • 肖玮春"
 
 但是大部分时候，我们只需要保证头部骨骼、五官的透视不出错，下巴只需要用线条或是暗面暗示一下，就可以表达其立体效果
 
-![下巴的处理](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l3-36.png)
+![下巴的处理](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l3-36.png)
 
 脖子在固定了头和胸腔的位置之后，更多地是靠真人照片的负型作为参考来塑造
 
 要注意：在抬头时，需要注意脖子后面的皮肤会轮胎状堆叠起皱，而皱痕的方向则会向前方发散
 
-![利用负型画脖子](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l3-37.png)
+![利用负型画脖子](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l3-37.png)
 
 ## 头颈肩的肌肉
 
@@ -313,7 +313,7 @@ summary: "头颈肩与胸腔的连接 • 人体结构课 • 肖玮春"
 
 而继续往两边观察，就可以发现：胸大肌下沿的连线跟 **三角肌的尖端** 很接近
 
-![胸大肌下沿](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l3-38.png)
+![胸大肌下沿](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l3-38.png)
 
 同时，我们还需要找到锁骨上的中点<sub>（下图中的蓝点）</sub>和外侧平直转折处的1/3点<sub>（下图中的红点）</sub>
 
@@ -321,15 +321,15 @@ summary: "头颈肩与胸腔的连接 • 人体结构课 • 肖玮春"
 
 从背面看，上方的蓝色点位于肩胛骨宽度的1/2处，这个点是三角肌的起点之一
 
-![锁骨分割点](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l3-39.png)
+![锁骨分割点](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l3-39.png)
 
 接下来，用饱满的弧线连接上述各个点，即可画出三角肌
 
-![三角肌](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l3-40.png)
+![三角肌](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l3-40.png)
 
 从前面三角肌的起点往下作垂线，男性的乳头一般就在这条垂线上
 
-  ![男性乳头的位置](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l3-41.png)
+  ![男性乳头的位置](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l3-41.png)
 
 ### 胸大肌
 
@@ -339,13 +339,13 @@ summary: "头颈肩与胸腔的连接 • 人体结构课 • 肖玮春"
 
 然后折回乳头的位置，再连接到胸骨的底端<sub>（即胸腔正面空洞的顶点）</sub>
 
-![胸大肌](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l3-42.png)
+![胸大肌](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l3-42.png)
 
-![胸大肌参考](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l3-43.png)
+![胸大肌参考](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l3-43.png)
 
 ### 斜方肌
 
-![斜方肌](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l3-44.png)
+![斜方肌](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l3-44.png)
 
 从纵向分析，斜方肌始于头颅球体的底部，终于胸腔背面空洞上沿的中点
 
@@ -353,7 +353,7 @@ summary: "头颈肩与胸腔的连接 • 人体结构课 • 肖玮春"
 
 从背面看左右两端斜着生长到锁骨上，状似一把宝剑
 
-![斜方肌多角度参考](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l3-45.png)
+![斜方肌多角度参考](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l3-45.png)
 
 ### 背阔肌
 
@@ -361,7 +361,7 @@ summary: "头颈肩与胸腔的连接 • 人体结构课 • 肖玮春"
 
 在分割线以下，会一直向下延伸，直到屁股
 
-![背阔肌](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l3-46.png)
+![背阔肌](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l3-46.png)
 
 ### 前锯肌
 
@@ -371,7 +371,7 @@ summary: "头颈肩与胸腔的连接 • 人体结构课 • 肖玮春"
 
 为了更好地画出前锯肌，我们可以先找出前锯肌大致的区域，然后再安排熊掌的位置
 
-![前锯肌](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l3-47.png)
+![前锯肌](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l3-47.png)
 
 ### 最后一步
 
@@ -379,11 +379,11 @@ summary: "头颈肩与胸腔的连接 • 人体结构课 • 肖玮春"
 
 这时我们可以根据肌肉本身的分簇，为各个标记点之间加入合理的连线，让肌肉看起来更有细节
 
-![加入细节](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l3-48.png)
+![加入细节](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l3-48.png)
 
 ### 女性胸部
 
-![女性胸部](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l3-50.png)
+![女性胸部](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l3-50.png)
 
 女性在一般情况下，因为胸腔是一个平缓的弧面，在不装备“那件装备”的情况下，○○自然下垂，并不会产生●沟
 
@@ -399,4 +399,4 @@ summary: "头颈肩与胸腔的连接 • 人体结构课 • 肖玮春"
 
 只有正确理解了锁骨和肩关节球的关系之后，才能完美地诠释出胸部的肌肉因为互相作用所产生的形变
 
-![胸部肌肉变化示例](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/chuns/humanBodyStructure/attachments/l3-49.png)
+![胸部肌肉变化示例](https://attachments.chinanoahli.info/art/chuns/humanBodyStructure/l3-49.png)

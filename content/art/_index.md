@@ -51,7 +51,7 @@ summary: "美术学习笔记目录"
 
 这里先放出所有示例图片
 
-> ![斋藤直葵老师头发画法的补充 001](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/myNote/attachments/img001.png)
+> ![斋藤直葵老师头发画法的补充 001](https://attachments.chinanoahli.info/art/img001.png)
 >
 > 图中浅色的色块代表更靠近摄像机的面，深色的色块代表更远离摄像机的面
 
@@ -83,7 +83,7 @@ summary: "美术学习笔记目录"
 
 #### 初学者练习人体，脊椎应该用曲线还是直线表示更好？
 
-![有经验的画师会推荐的做法](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/myNote/attachments/img002.png)
+![有经验的画师会推荐的做法](https://attachments.chinanoahli.info/art/img002.png)
 
 很多有经验的画师，在教学的时候都会经常强调「先画出脊椎可以有效把握角色动态，避免画得死板」，所以他们都会推荐如 *图 1 ~ 2* 的做法，先画出脊椎的 **曲线** ，再在上面添加方块
 
@@ -91,7 +91,7 @@ summary: "美术学习笔记目录"
 
 正如 *图 2* 展示的一样，初学者很容易在透视上抠很久；同时也因为经验不足，无法很好地在立体状态下判断胸腔方块的朝向是否正确，这就导致了会画出各种各样奇怪朝向的胸腔而不自知
 
-![我认为更容易理解的做法](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/myNote/attachments/img003.png)
+![我认为更容易理解的做法](https://attachments.chinanoahli.info/art/img003.png)
 
 我更推荐初学者先把脊椎理解成 **直线** ，因为直线的方向明确，不存在取切点位置不一样而导致影响整个方块朝向的问题，这在很大程度上可以降低理解立体结构的难度
 
@@ -103,7 +103,7 @@ summary: "美术学习笔记目录"
 
 #### 由毛厂圆柱画法引申出来的透视误区
 
-![毛厂人体教学模式](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/myNote/attachments/img004.png)
+![毛厂人体教学模式](https://attachments.chinanoahli.info/art/img004.png)
 
 我们先来看一下毛厂的教学模式，就跟 *图 1* 里面展示的一样，毛厂的教学模式倾向于用大量带倾角的(椭)圆柱来概括人体
 
@@ -121,7 +121,7 @@ summary: "美术学习笔记目录"
 
 对于一个平面来说，所谓的倾斜，其实就像是从 *图 2-1* → *图 2-2* 一样，它以某一条边为轴，发生了转动
 
-![错误的画法](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/myNote/attachments/img005.png)
+![错误的画法](https://attachments.chinanoahli.info/art/img005.png)
 
 > 透视感好的读者应该可以知道，在这一步开始我就已经犯错了
 >
@@ -133,11 +133,11 @@ summary: "美术学习笔记目录"
 
 <span style="color: #FF005D;">No</span>、<span style="color: #FF005D;">No</span>、<span style="color: #FF005D;">No</span>，大错特错！
 
-![改变观察方向](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/myNote/attachments/img006.png)
+![改变观察方向](https://attachments.chinanoahli.info/art/img006.png)
 
 为了解答这个问题，我们得从这个方块的正侧边来观察，就如 *图 3* 里<span style="color: #FF005D;">红色箭头</span>的方向一样
 
-![正侧视图解释](https://github-share-1304366332.cos.ap-guangzhou.myqcloud.com/art/myNote/attachments/img007.png)
+![正侧视图解释](https://attachments.chinanoahli.info/art/img007.png)
 
 从正侧面观察 <sub>(暂且忽略所有透视，在 3D 软件里面忽略所有透视的观察方法一般又叫做「 *正交视图* 」) </sub>，在没有发生倾斜之前，毫无疑问这应该是一个方形，正如 *图 4-1* 一样
 
