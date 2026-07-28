@@ -1,24 +1,27 @@
-{{ with .Params.notHomePage }}
+{{ with .Params.notHomePage }} {{ $alertIcon := resources.Get (printf
+"OctIcons/icons/stop-16.svg") }}
 
 <hr />
-<h2 id="内容归属">
-  内容归属<a class="anchor" href="#%e5%86%85%e5%ae%b9%e5%bd%92%e5%b1%9e">#</a>
-</h2>
-<p><a href="https://github.com/chinanoahli">chinanoahli @ GitHub</a></p>
+<h2 id="使用说明">使用说明</h2>
 <p>
-  对笔记内容有任何问题或建议，请到本项目的<a
-    href="https://github.com/chinanoahli/personal_note/discussions"
-    >Discussions页面</a
-  >提出
+  本站任何链接均可使用
+  <span style="color: #00a5ff"><strong>鼠标中键</strong></span> 点击以直接在
+  <span style="color: #00a5ff">新标签页</span> 中打开
+</p>
+<p>
+  因为
+  <span style="color: #ff005d"><strong>穷</strong></span> ，所以本站直接使用
+  Cloudflare Pages
+  托管，大陆访问有时会比较缓慢，如遇到图片加载速度缓慢或出错，请刷新再试
 </p>
 <hr />
-<h4 id="奖励我一瓶快乐水">
-  奖励我一瓶快乐水<a
-    class="anchor"
-    href="#%e5%a5%96%e5%8a%b1%e6%88%91%e4%b8%80%e7%93%b6%e5%bf%ab%e4%b9%90%e6%b0%b4"
-    >#</a
-  >
-</h4>
+<h2 id="内容归属">内容归属</h2>
+<p><a href="https://github.com/chinanoahli">chinanoahli @ GitHub</a></p>
+<p>
+  对笔记内容有任何问题或建议，请到本项目的 <a href="https://github.com/chinanoahli/PersonalNote/discussions" >Discussions页面</a> 提出
+</p>
+<hr />
+<h4 id="奖励我一瓶快乐水">奖励我一瓶快乐水</h4>
 <p>本站无广告，自费建设，自行维护</p>
 <p>
   如果你觉得本站的资讯对你有用，可以通过以下任意一种方式<strong
@@ -61,13 +64,33 @@
   </tr>
 </table>
 <hr />
-<h2 id="关于许可证">
-  关于许可证<a
-    class="anchor"
-    href="#%e5%85%b3%e4%ba%8e%e8%ae%b8%e5%8f%af%e8%af%81"
-    >#</a
-  >
-</h2>
+<h2 id="关于许可证">关于许可证</h2>
+
+<blockquote
+  class="book-hint caution"
+  style="
+    margin: 1rem 0;
+    color: var(--body-font-color);
+    font-size: var(--font-size);
+    --font-size: 16px;
+    font-weight: var(--body-font-weight);
+    padding: 0.5rem 1rem 0.5rem 0.75rem;
+    border-inline-start: 0.25rem solid var(--gray-200);
+    border-radius: var(--border-radius);
+    border-color: var(--color-accent-caution);
+    background-color: var(--color-accent-caution-tint);
+  "
+>
+  <div class="alert-heading alertType-caution">
+    {{ $alertIcon.Content | safeHTML }} 严格禁止事项
+  </div>
+  <p>
+    严禁转载本站点的任何内容到大陆地区任何所谓的<span style="color: #ff005d"
+      ><strong>假开源</strong></span
+    >平台，特别点名 CSDN 、 Gitee 等
+  </p>
+</blockquote>
+
 <p>
   基本全为个人笔记和个人观点，采用
   <strong>CC BY SA</strong> 许可协议发布，许可协议的具体规条款请点击下方的

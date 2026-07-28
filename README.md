@@ -1,5 +1,9 @@
 # 笔记总目录
 
+为防止一键盗转，所有图片不对 GitHub 开放，请移步到个人站点进行观看阅读
+
+[chinanoahli.info](https://chinanoahli.info) &#09; [chinanoahli.net](https://chinanoahli.net)
+
 + [美术学习笔记](./content/art/_index.md)
 + [音乐学习笔记](./music/_index.md)
 + [游戏笔记](./game/_index.md)
@@ -17,6 +21,7 @@
 本站无广告，自费建设，自行维护
 
 如果你觉得本站的资讯对你有用，可以通过以下任意一种方式 **奖励我一瓶快乐水**
+
 <table align="center">
     <tr>
     <td align="center"><p>微信赞赏码</p></td>
@@ -41,6 +46,10 @@
 ---
 
 ## 关于许可证
+
+> [!CAUTION] 严格禁止事项
+>
+> 严禁转载本仓库的任何内容到大陆地区任何所谓的<span style="color:#FF005D;">**假开源**</span>平台，特别点名 CSDN 、 Gitee 等
 
 基本全为个人笔记和个人观点，采用 **CC BY SA** 许可协议发布，许可协议的具体规条款请点击下方的 *图片* 进行查看
 
