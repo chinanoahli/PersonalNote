@@ -30,7 +30,7 @@ summary: "macOS 使用技巧"
 *启用*最佳化提示|`defaults delete -g CSUIDisable32BitWarning`|未测试
 查看当前设置|`defaults read -g CSUIDisable32BitWarning`|未测试
 
-![示例图像](https://attachments.chinanoahli.info/softUsage/operatingSystem/macOStweaks/img001.jfifimg001.jfif)
+![示例图像](https://attachments.chinanoahli.info/softUsage/operatingSystem/macOStweaks/img001.jfif)
 
 ---
 
@@ -273,7 +273,7 @@ defaults write com.apple.dock ResetLaunchPad -bool true
 killall Dock
 ```
 
-![示例图像](https://attachments.chinanoahli.info/softUsage/operatingSystem/macOStweaks/img001.jfifimg002.jfif)
+![示例图像](https://attachments.chinanoahli.info/softUsage/operatingSystem/macOStweaks/img002.jfif)
 
 ---
 
@@ -321,7 +321,7 @@ killall Dock
 
 ## 在日历应用中订阅苹果官方节庆日历 [^8]
 
-![示例图像](https://attachments.chinanoahli.info/softUsage/operatingSystem/macOStweaks/img001.jfifimg003.jfif)
+![示例图像](https://attachments.chinanoahli.info/softUsage/operatingSystem/macOStweaks/img003.jfif)
 
 1. 在“日历”中，选取“文件”>“新建日历订阅”。
 2. 输入日历的网址，然后点按“订阅”。
