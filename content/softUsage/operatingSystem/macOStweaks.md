@@ -116,9 +116,9 @@ csrutil status   # 查看SIP设置 (可在正常系统下使用本命令)
 
 ```shell
 sudo /usr/libexec/repair_packages --verify --standard-pkgs /Volumes/Macintosh\ HD/
-                                                                    ^ 改成你系统盘的名称
+                                                                    ↑ 改成你系统盘的名称
 sudo /usr/libexec/repair_packages --repair --standard-pkgs --volume /Volumes/Macintosh\ HD/
-                                                                             ^ 改成你系统盘的名称
+                                                                             ↑ 改成你系统盘的名称
 ```
 
 ---
@@ -229,13 +229,13 @@ xattr -rc 文件名/文件夹名
 ```text
 bash-5.0$ ls -ahl
 -rw-r--r--@  1 user  staff     0B Aug  3 11:40 NewFile.txt
-          ^ 「@」属性标记，以上为实验性地为一个文件加上颜色标签后的结果。
+          ↑ 「@」属性标记，以上为实验性地为一个文件加上颜色标签后的结果。
 
 bash-5.0$ xattr -rc NewFile.txt  # 通过 xattr -rc 文件名/文件夹名 可以递归地删除文件/文件夹里面所有文件的「@」属性标记。
 
 bash-5.0$ ls -ahl
 -rw-r--r--   1 user  staff     0B Aug  3 11:40 NewFile.txt
-          ^ 执行后「@」属性标记消失。
+          ↑ 执行后「@」属性标记消失。
 ```
 
 ---
@@ -253,7 +253,7 @@ bash-5.0$ ls -ahl
 
 ```shell
 sudo "path/to/Installer.app/Contents/Resources/createinstallmedia" --volume /Volumes/Untitled --applicationpath "path/to/Installer.app/Contents/Resources/createinstallmedia" --nointeraction
-                                                                                     ^ 改成你U盘的卷标
+                                                                                     ↑ 改成你U盘的卷标
 ```
 
 ---
@@ -313,7 +313,7 @@ killall Dock
 删除以下路径的图片即可
 ```shell
 /Library/Caches/Desktop Pictures/89EE1E2D-C40A-40B6-A7F0-F7C3DCF2EB41/lockscreen.png
-                                 ^ 此为用户账户UUID，可以在下面的位置进行查询
+                                 ↑ 此为用户账户UUID，可以在下面的位置进行查询
                                    系统偏好设置 > 用户与群组 > 解锁 > 在用户账户上单击鼠标右键 > 进阶选项
 ```
 
@@ -421,6 +421,64 @@ killall Dock
 > 
 > 假如你禁用某分区自动挂载后，又对其进行了格式化操作，可能需要按照以上步骤重新禁用
 
+## 如何去掉 `com.apple.macl` 特殊属性 [^9] [^10] [^11]
+
+虽然上面的 [去除文件特殊属性](#去除文件特殊属性) 技巧中提到，使用 `xattr -rc xxx` 可以去除文件(夹)的所有 `@` 属性
+
+但在 macOS Catalina 中， Apple 加入了一种新的特殊属性，即 `com.apple.macl` 
+
+这种特殊属性无法直接通过 `xattr` 命令移除: `xattr` 命令虽然可以去除这个属性，但系统会在 0.0005 秒内重新为该文件(夹)重新加上 `macl` 属性
+
+而且它和 SIP 机制有关，当文件(夹)带有这个属性时，每次打开都会触发 Gatekeeper 检查，这在某些时候会导致一些 App 每次打开时都会提示不该应用不安全
+
+众所周知，在 Apple Silicon 芯片的 Mac 中 SIP 的关闭或者改动，都变得特别不推荐而且相当麻烦
+
+但 `macl` 属性仍然是可以被去除的， `macl` 属性只在 macOS 的启动磁盘中生效，因此我们可以通过把文件复制到外置磁盘中，把该属性通过 `xattr` 移除即可:
+
+1. 打开 macOS 自带的 「磁盘工具」
+2. 在菜单栏中选取 文件 → 新建映像 → 空白映像，并根据提示创建一个比应用体积略大的映像文件，储存在任意位置
+3. 把需要移除 `macl` 属性的 App 复制到该磁盘映像之中
+4. 利用 `xattr` 移除该 App 的特殊属性
+5. 把 App 复制到任意你想要安装的位置即可
+6. 现在你可以卸载和删除掉之前新建的磁盘映像了
+
+```shell
+bash-5.0$ cd /Applications/
+bash-5.0$ ls -ahl
+drwxr-xr-x@  3  root  wheel  96B  Jul 21 05:30  Visual Studio Code.app/
+bash-5.0$ xattr -l Visual\ Studio\ Code.app/
+com.apple.macl:
+  # 直接查询我正在使用，已经安装到 /Applications 的 Visual Studio Code.app ，可以看到它具有 `macl` 属性
+
+  # 用 磁碟工具 创建一个名称为 未命名 的 磁盘映像 并挂载
+  # 用 Finder 把 Visual Studio Code.app 复制到 未命名 里面
+
+bash-5.0$ cd /Volumes/未命名/
+bash-5.0$ ls -ahl
+drwxr-xr-x@  3  chinanoahli  staff  96B  Jul 21 05:30  Visual Studio Code.app/
+bash-5.0$ xattr -l Visual\ Studio\ Code.app/
+com.apple.macl: 
+  # 此时直接通过 xattr 列出 Visual Studio Code.app 的特殊属性，可以看到仅有一个 `com.apple.macl`
+
+bash-5.0$ xattr -rc Visual\ Studio\ Code.app/
+bash-5.0$ ls -ahl
+drwxr-xr-x  3  chinanoahli  staff  96B  Jul 21 05:30  Visual Studio Code.app/
+  #       ↑ @ 属性已经消失
+
+  # 用 Finder 重新把 /Volumes/未命名/Visual Studio Code.app 复制至 桌面
+bash-5.0$ cd ~/Desktop/
+
+bash-5.0$ ls -ahl
+drwxr-xr-x  3  chinanoahli  staff  96B  Jul 21 05:30  Visual Studio Code.app/
+  #       ↑ @ 属性不复存在
+```
+
+另外，你可以使用 macOS 自带的 **命令行工具** `zip` ，把你需要处理的文件压缩后重新解压，也能去除 `macl` 属性
+
+但注意，压缩解压法必须使用命令行工具，而不是 Finder 右键菜单中的压缩
+
+具体技术细节，请参考本 Tweak 标题后方的引用来源
+
 ## 引用来源
 
 [^1]: [App 尚未针对您的 Mac 优化](https://support.apple.com/zh-cn/HT208436)
@@ -431,3 +489,9 @@ killall Dock
 [^6]: [How to make a bootable OS X 10.10 Yosemite install drive](http://www.macworld.com/article/2367748/how-to-make-a-bootable-os-x-10-10-yosemite-install-drive.html)
 [^7]: [How to Rebuild Launchpad Database in OS X Yosemite (10.10) and Later](https://mariusvw.com/2017/10/21/how-to-rebuild-launchpad-database-in-os-x-yosemite-10-10-and-later/)
 [^8]: [添加日历订阅](https://support.apple.com/zh-cn/HT202361)
+
+[^9]: [Quarantine, SIP, and MACL: macOS per-file security controls](https://eclecticlight.co/2020/01/30/quarantine-sip-and-macl-macos-per-file-security-controls/)
+
+[^10]: [Track and Tackle `com.apple.macl`](https://www.brunerd.com/blog/2020/01/07/track-and-tackle-com-apple-macl/)
+
+[^11]: [GitHub Gist: brunerd/maclTackle.command](https://gist.github.com/brunerd/d9ea487b7d2faab9712a221592a2ee58)
