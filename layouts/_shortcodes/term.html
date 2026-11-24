@@ -1,0 +1,8 @@
+{{- if or .IsNamedParams (ne (len .Params) 2) -}}
+  {{- errorf "term shortcode requires a term and its translation at %s" .Position -}}
+{{- else -}}
+  {{- $term := .Get 0 -}}
+  {{- $translation := .Get 1 -}}
+  {{- $id := printf "term-tooltip-%s" (md5 (printf "%v" .Position)) -}}
+  <span class="term-tooltip" tabindex="0" aria-describedby="{{ $id }}">{{ $term }}<span class="term-tooltip-text" id="{{ $id }}" role="tooltip"><span aria-hidden="true">{{ $term }}</span><br>{{ $translation }}</span></span>
+{{- end -}}
